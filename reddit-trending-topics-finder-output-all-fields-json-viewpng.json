@@ -1,0 +1,3625 @@
+[{
+  "rowType": "trending_topic",
+  "rank": 1,
+  "topicId": "0c4fb5956d00",
+  "topic": "Ukraine",
+  "trendScore": 85,
+  "trendTier": "BREAKOUT",
+  "confidence": "HIGH",
+  "trendSignals": [
+    "HIGH_SCORE_VELOCITY",
+    "HIGH_COMMENT_VELOCITY",
+    "MULTIPLE_BREAKOUT_POSTS",
+    "MULTIPLE_AUTHORS",
+    "MULTIPLE_SUBREDDITS",
+    "RISING_FEED_PRESENCE",
+    "HOT_FEED_PRESENCE",
+    "RECENT_POST_CLUSTER",
+    "REPEATED_TITLE_THEME"
+  ],
+  "weakeningSignals": [
+    "SINGLE_SUBREDDIT_DOMINANCE"
+  ],
+  "trendSummary": "Discussion of Ukraine is breaking out across 2 subreddits: 23 posts by 18 authors, with 7 breakout posts and unusually high score and comment velocity.",
+  "metrics": {
+    "postCount": 23,
+    "rawPostCount": 24,
+    "uniqueAuthors": 18,
+    "uniqueSubreddits": 2,
+    "totalScore": 172221,
+    "totalComments": 14736,
+    "avgScore": 7487.9,
+    "medianScore": 4654,
+    "avgComments": 640.7,
+    "medianComments": 268,
+    "avgScorePerHour": 506.6,
+    "medianScorePerHour": 270.4,
+    "avgCommentsPerHour": 53.6,
+    "medianCommentsPerHour": 13,
+    "breakoutPostCount": 7,
+    "hotPostCount": 22,
+    "risingPostCount": 9,
+    "newPostCount": 19,
+    "topPostCount": 0,
+    "crosspostCount": 1,
+    "medianAgeHours": 19.4
+  },
+  "scoreBreakdown": {
+    "engagementVelocity": 21.2,
+    "discussionVelocity": 15.2,
+    "breakoutPosts": 15,
+    "recency": 13.3,
+    "postFrequency": 10,
+    "authorDiversity": 3.9,
+    "subredditSpread": 1.7,
+    "nativeFeedSignals": 5,
+    "penalties": {},
+    "total": 85
+  },
+  "topSubreddits": [
+    {
+      "subreddit": "worldnews",
+      "posts": 23
+    },
+    {
+      "subreddit": "politics",
+      "posts": 1
+    }
+  ],
+  "topSubreddit": "worldnews",
+  "topSubredditShare": 0.96,
+  "topAuthorShare": 0.09,
+  "crosspostSubreddits": [
+    "worldnews",
+    "politics"
+  ],
+  "relatedPhrases": [
+    "Zelenskyy"
+  ],
+  "nativeFeedSignals": [
+    "RISING",
+    "HOT",
+    "NEW"
+  ],
+  "observedWindow": {
+    "requested": "7_DAYS",
+    "oldestEvidenceAt": "2026-10-19T07:54:10.168Z",
+    "newestEvidenceAt": "2026-10-21T01:48:17.649Z"
+  },
+  "evidencePosts": [
+    {
+      "postId": "1xb3sok",
+      "title": "Musk ordered Starlink slowdown for Ukraine: WSJ",
+      "subreddit": "worldnews",
+      "author": "dfivetf",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xb3sok/musk_ordered_starlink_slowdown_for_ukraine_wsj/",
+      "createdAt": "2026-10-20T20:50:14.095Z",
+      "score": 34436,
+      "commentCount": 5705,
+      "scorePerHour": 4668.78,
+      "commentsPerHour": 773.48,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "POPULAR_HOT",
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": "Russia/Ukraine",
+      "postType": "link",
+      "crosspostSubreddits": [
+        "politics"
+      ]
+    },
+    {
+      "postId": "1xbagwb",
+      "title": "Musk chose to restrict Ukraine's access to SpaceX satellite network, sources say",
+      "subreddit": "worldnews",
+      "author": "graveyardofgoodsense",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xbagwb/musk_chose_to_restrict_ukraines_access_to_spacex/",
+      "createdAt": "2026-10-21T01:48:17.649Z",
+      "score": 3974,
+      "commentCount": 268,
+      "scorePerHour": 1650.23,
+      "commentsPerHour": 111.29,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": "Russia/Ukraine",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xau7cc",
+      "title": "Kallas Says US Negotiators Tried to Push Ukraine Into Surrender for 1.5 Years",
+      "subreddit": "worldnews",
+      "author": "ArgentineBeauty",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xau7cc/kallas_says_us_negotiators_tried_to_push_ukraine/",
+      "createdAt": "2026-10-20T14:51:24.198Z",
+      "score": 14874,
+      "commentCount": 572,
+      "scorePerHour": 1113.63,
+      "commentsPerHour": 42.83,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": "Russia/Ukraine",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xamwl4",
+      "title": "Trump says someone other than Zelenskyy should negotiate peace for Ukraine",
+      "subreddit": "worldnews",
+      "author": "According-Gear-8217",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xamwl4/trump_says_someone_other_than_zelenskyy_should/",
+      "createdAt": "2026-10-20T08:49:15.175Z",
+      "score": 5244,
+      "commentCount": 1420,
+      "scorePerHour": 270.42,
+      "commentsPerHour": 73.23,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": "Russia/Ukraine",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xb1tgd",
+      "title": "Zelenskyy on Trump, Xi and Putin meeting: They have the right to meet, but not to discuss Ukraine without us",
+      "subreddit": "worldnews",
+      "author": "ArgentineBeauty",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xb1tgd/zelenskyy_on_trump_xi_and_putin_meeting_they_have/",
+      "createdAt": "2026-10-20T19:33:54.939Z",
+      "score": 5459,
+      "commentCount": 167,
+      "scorePerHour": 631.26,
+      "commentsPerHour": 19.31,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": "Russia/Ukraine",
+      "postType": "link",
+      "crosspostSubreddits": []
+    }
+  ],
+  "metadataCoverage": 1,
+  "mode": "HYBRID",
+  "analysisMode": "RULES_CLUSTERING",
+  "scrapedAt": "2026-10-21T04:12:51.771Z"
+},
+{
+  "rowType": "trending_topic",
+  "rank": 2,
+  "topicId": "8cd4c172ebe8",
+  "topic": "Wemby",
+  "trendScore": 81,
+  "trendTier": "BREAKOUT",
+  "confidence": "HIGH",
+  "trendSignals": [
+    "HIGH_COMMENT_VELOCITY",
+    "MULTIPLE_BREAKOUT_POSTS",
+    "MULTIPLE_AUTHORS",
+    "RISING_FEED_PRESENCE",
+    "HOT_FEED_PRESENCE",
+    "RECENT_POST_CLUSTER",
+    "REPEATED_TITLE_THEME",
+    "RAPID_DISCUSSION_GROWTH"
+  ],
+  "weakeningSignals": [
+    "SINGLE_SUBREDDIT_DOMINANCE"
+  ],
+  "trendSummary": "Discussion of Wemby is breaking out in r/nba: 14 posts by 10 authors, with 3 breakout posts and unusually high comment velocity.",
+  "metrics": {
+    "postCount": 14,
+    "rawPostCount": 16,
+    "uniqueAuthors": 10,
+    "uniqueSubreddits": 1,
+    "totalScore": 2008,
+    "totalComments": 1002,
+    "avgScore": 143.4,
+    "medianScore": 69.5,
+    "avgComments": 71.6,
+    "medianComments": 45,
+    "avgScorePerHour": 118.3,
+    "medianScorePerHour": 41.4,
+    "avgCommentsPerHour": 54.5,
+    "medianCommentsPerHour": 42.5,
+    "breakoutPostCount": 3,
+    "hotPostCount": 8,
+    "risingPostCount": 3,
+    "newPostCount": 14,
+    "topPostCount": 0,
+    "crosspostCount": 2,
+    "medianAgeHours": 1.2
+  },
+  "scoreBreakdown": {
+    "engagementVelocity": 16.2,
+    "discussionVelocity": 17.2,
+    "breakoutPosts": 15,
+    "recency": 14.9,
+    "postFrequency": 9.5,
+    "authorDiversity": 3.6,
+    "subredditSpread": 0,
+    "nativeFeedSignals": 5,
+    "penalties": {},
+    "total": 81
+  },
+  "topSubreddits": [
+    {
+      "subreddit": "nba",
+      "posts": 16
+    }
+  ],
+  "topSubreddit": "nba",
+  "topSubredditShare": 1,
+  "topAuthorShare": 0.29,
+  "crosspostSubreddits": [
+    "nba"
+  ],
+  "relatedPhrases": [
+    "Chet"
+  ],
+  "nativeFeedSignals": [
+    "RISING",
+    "HOT",
+    "NEW"
+  ],
+  "observedWindow": {
+    "requested": "7_DAYS",
+    "oldestEvidenceAt": "2026-10-21T01:55:10.968Z",
+    "newestEvidenceAt": "2026-10-21T04:00:46.513Z"
+  },
+  "evidencePosts": [
+    {
+      "postId": "1xbcmzl",
+      "title": "[Highlight] Mara shows his kaleidoscope and denies the Wemby alley on one and then completes his own",
+      "subreddit": "nba",
+      "author": "fbreaker",
+      "url": "https://www.reddit.com/r/nba/comments/1xbcmzl/highlight_mara_shows_his_kaleidoscope_and_denies/",
+      "createdAt": "2026-10-21T03:36:42.008Z",
+      "score": 969,
+      "commentCount": 182,
+      "scorePerHour": 969,
+      "commentsPerHour": 182,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": "Highlight",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xbbci5",
+      "title": "[Highlight] Fox decides to throw Chet to the ground and a scrum breaks out between the Thunder and Spurs. Fox is assessed a Flagrant one, Wemby, Jwill, Jdub, and Kenrich Williams are handed technical fouls (with replays)",
+      "subreddit": "nba",
+      "author": "LiamHundley",
+      "url": "https://www.reddit.com/r/nba/comments/1xbbci5/highlight_fox_decides_to_throw_chet_to_the_ground/",
+      "createdAt": "2026-10-21T02:31:30.336Z",
+      "score": 286,
+      "commentCount": 168,
+      "scorePerHour": 169.44,
+      "commentsPerHour": 99.53,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": "Highlight",
+      "postType": "link",
+      "crosspostSubreddits": [
+        "nba"
+      ]
+    },
+    {
+      "postId": "1xbbys8",
+      "title": "Wemby first half 0-7 FGA, foul merchanting to 8 points. +/- of -11",
+      "subreddit": "nba",
+      "author": "BuddyBiscuits",
+      "url": "https://www.reddit.com/r/nba/comments/1xbbys8/wemby_first_half_07_fga_foul_merchanting_to_8/",
+      "createdAt": "2026-10-21T03:02:04.734Z",
+      "score": 106,
+      "commentCount": 64,
+      "scorePerHour": 89.95,
+      "commentsPerHour": 54.31,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": null,
+      "postType": "text",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xbbrll",
+      "title": "Wembys seething hatred of Chet is weird and wouldn’t be socially acceptable in any other setting.",
+      "subreddit": "nba",
+      "author": "FFElite93",
+      "url": "https://www.reddit.com/r/nba/comments/1xbbrll/wembys_seething_hatred_of_chet_is_weird_and/",
+      "createdAt": "2026-10-21T02:52:14.306Z",
+      "score": 0,
+      "commentCount": 217,
+      "scorePerHour": 0,
+      "commentsPerHour": 161.65,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_NEW"
+      ],
+      "flair": null,
+      "postType": "text",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xbbat0",
+      "title": "[Highlight] Scuffle breaks out between J Will and Wemby",
+      "subreddit": "nba",
+      "author": "Large_banana_hammock",
+      "url": "https://www.reddit.com/r/nba/comments/1xbbat0/highlight_scuffle_breaks_out_between_j_will_and/",
+      "createdAt": "2026-10-21T02:29:09.307Z",
+      "score": 99,
+      "commentCount": 88,
+      "scorePerHour": 57.32,
+      "commentsPerHour": 50.95,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW"
+      ],
+      "flair": "Highlight",
+      "postType": "link",
+      "crosspostSubreddits": []
+    }
+  ],
+  "metadataCoverage": 1,
+  "mode": "HYBRID",
+  "analysisMode": "RULES_CLUSTERING",
+  "scrapedAt": "2026-10-21T04:12:51.771Z"
+},
+{
+  "rowType": "trending_topic",
+  "rank": 3,
+  "topicId": "0e10e164957d",
+  "topic": "Data center",
+  "trendScore": 78,
+  "trendTier": "BREAKOUT",
+  "confidence": "HIGH",
+  "trendSignals": [
+    "MULTIPLE_BREAKOUT_POSTS",
+    "MULTIPLE_AUTHORS",
+    "MULTIPLE_SUBREDDITS",
+    "RISING_FEED_PRESENCE",
+    "HOT_FEED_PRESENCE",
+    "RECENT_POST_CLUSTER",
+    "REPEATED_TITLE_THEME"
+  ],
+  "weakeningSignals": [],
+  "trendSummary": "Discussion of Data center is breaking out across 2 subreddits: 8 posts by 8 authors, with 3 breakout posts.",
+  "metrics": {
+    "postCount": 8,
+    "rawPostCount": 8,
+    "uniqueAuthors": 8,
+    "uniqueSubreddits": 2,
+    "totalScore": 46454,
+    "totalComments": 1906,
+    "avgScore": 5806.8,
+    "medianScore": 2086.5,
+    "avgComments": 238.3,
+    "medianComments": 107,
+    "avgScorePerHour": 234.4,
+    "medianScorePerHour": 84.3,
+    "avgCommentsPerHour": 13.1,
+    "medianCommentsPerHour": 4.1,
+    "breakoutPostCount": 3,
+    "hotPostCount": 7,
+    "risingPostCount": 2,
+    "newPostCount": 5,
+    "topPostCount": 0,
+    "crosspostCount": 0,
+    "medianAgeHours": 24.3
+  },
+  "scoreBreakdown": {
+    "engagementVelocity": 17.7,
+    "discussionVelocity": 13.2,
+    "breakoutPosts": 15,
+    "recency": 12.8,
+    "postFrequency": 7.5,
+    "authorDiversity": 5,
+    "subredditSpread": 1.7,
+    "nativeFeedSignals": 5,
+    "penalties": {},
+    "total": 78
+  },
+  "topSubreddits": [
+    {
+      "subreddit": "technology",
+      "posts": 7
+    },
+    {
+      "subreddit": "worldnews",
+      "posts": 1
+    }
+  ],
+  "topSubreddit": "technology",
+  "topSubredditShare": 0.88,
+  "topAuthorShare": 0.13,
+  "crosspostSubreddits": [],
+  "relatedPhrases": [
+    "AI data centers"
+  ],
+  "nativeFeedSignals": [
+    "RISING",
+    "HOT",
+    "NEW"
+  ],
+  "observedWindow": {
+    "requested": "7_DAYS",
+    "oldestEvidenceAt": "2026-10-19T21:41:57.530Z",
+    "newestEvidenceAt": "2026-10-20T15:52:39.324Z"
+  },
+  "evidencePosts": [
+    {
+      "postId": "1xavtj4",
+      "title": "US restarts three shut-down nuclear reactors to feed AI data centers — 2.25 GW coming online with backing from Microsoft and Google",
+      "subreddit": "technology",
+      "author": "ArgentineBeauty",
+      "url": "https://www.reddit.com/r/technology/comments/1xavtj4/us_restarts_three_shutdown_nuclear_reactors_to/",
+      "createdAt": "2026-10-20T15:52:39.324Z",
+      "score": 4101,
+      "commentCount": 762,
+      "scorePerHour": 332.46,
+      "commentsPerHour": 61.77,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": "Artificial Intelligence",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xafm3b",
+      "title": "Russians Locked Out of Bank Accounts and Apartments as Ukraine Hits Data Centers",
+      "subreddit": "worldnews",
+      "author": "T_Shurt",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xafm3b/russians_locked_out_of_bank_accounts_and/",
+      "createdAt": "2026-10-20T01:52:52.369Z",
+      "score": 22986,
+      "commentCount": 568,
+      "scorePerHour": 872.94,
+      "commentsPerHour": 21.57,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": "Russia/Ukraine",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xaa6p7",
+      "title": "Greg Abbott raked in $9 million from data center donors",
+      "subreddit": "technology",
+      "author": "Mearsheimer_Tragedy",
+      "url": "https://www.reddit.com/comments/1xaa6p7/",
+      "createdAt": "2026-10-19T21:49:04.174Z",
+      "score": 14661,
+      "commentCount": 280,
+      "scorePerHour": 482.35,
+      "commentsPerHour": 9.21,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT"
+      ],
+      "flair": "Politics",
+      "postType": null,
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xak599",
+      "title": "Arkansas mom shared public data center records, then a utility sued her and 2 newspapers | \"Corporations need heavy regulation and their power curbed.\"",
+      "subreddit": "technology",
+      "author": "Just-Grocery-2229",
+      "url": "https://www.reddit.com/r/technology/comments/1xak599/arkansas_mom_shared_public_data_center_records/",
+      "createdAt": "2026-10-20T05:54:42.987Z",
+      "score": 2630,
+      "commentCount": 27,
+      "scorePerHour": 117.93,
+      "commentsPerHour": 1.21,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW"
+      ],
+      "flair": "Artificial Intelligence",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xaa2uj",
+      "title": "AI data centre giants sound alarm as building backlash, headwinds grow in Australia — Microsoft told government officials that projects would move to Malaysia or Indonesia, if they were unable to lock in power agreements or navigate planning system",
+      "subreddit": "technology",
+      "author": "marketrent",
+      "url": "https://www.reddit.com/comments/1xaa2uj/",
+      "createdAt": "2026-10-19T21:44:46.173Z",
+      "score": 484,
+      "commentCount": 161,
+      "scorePerHour": 15.89,
+      "commentsPerHour": 5.28,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT"
+      ],
+      "flair": "Artificial Intelligence",
+      "postType": null,
+      "crosspostSubreddits": []
+    }
+  ],
+  "metadataCoverage": 1,
+  "mode": "HYBRID",
+  "analysisMode": "RULES_CLUSTERING",
+  "scrapedAt": "2026-10-21T04:12:51.771Z"
+},
+{
+  "rowType": "trending_topic",
+  "rank": 4,
+  "topicId": "1b44b301c836",
+  "topic": "Pistons",
+  "trendScore": 78,
+  "trendTier": "BREAKOUT",
+  "confidence": "HIGH",
+  "trendSignals": [
+    "HIGH_SCORE_VELOCITY",
+    "HIGH_COMMENT_VELOCITY",
+    "MULTIPLE_BREAKOUT_POSTS",
+    "MULTIPLE_AUTHORS",
+    "RISING_FEED_PRESENCE",
+    "HOT_FEED_PRESENCE",
+    "RECENT_POST_CLUSTER",
+    "REPEATED_TITLE_THEME"
+  ],
+  "weakeningSignals": [
+    "SINGLE_SUBREDDIT_DOMINANCE"
+  ],
+  "trendSummary": "Discussion of Pistons is breaking out in r/nba: 5 posts by 5 authors, with 2 breakout posts and unusually high score and comment velocity.",
+  "metrics": {
+    "postCount": 5,
+    "rawPostCount": 5,
+    "uniqueAuthors": 5,
+    "uniqueSubreddits": 1,
+    "totalScore": 7937,
+    "totalComments": 1194,
+    "avgScore": 1587.4,
+    "medianScore": 1350,
+    "avgComments": 238.8,
+    "medianComments": 117,
+    "avgScorePerHour": 240,
+    "medianScorePerHour": 204.7,
+    "avgCommentsPerHour": 36.5,
+    "medianCommentsPerHour": 18,
+    "breakoutPostCount": 2,
+    "hotPostCount": 5,
+    "risingPostCount": 4,
+    "newPostCount": 0,
+    "topPostCount": 0,
+    "crosspostCount": 0,
+    "medianAgeHours": 6.5
+  },
+  "scoreBreakdown": {
+    "engagementVelocity": 21,
+    "discussionVelocity": 16.8,
+    "breakoutPosts": 10,
+    "recency": 14.4,
+    "postFrequency": 5.8,
+    "authorDiversity": 5,
+    "subredditSpread": 0,
+    "nativeFeedSignals": 5,
+    "penalties": {},
+    "total": 78
+  },
+  "topSubreddits": [
+    {
+      "subreddit": "nba",
+      "posts": 5
+    }
+  ],
+  "topSubreddit": "nba",
+  "topSubredditShare": 1,
+  "topAuthorShare": 0.2,
+  "crosspostSubreddits": [],
+  "relatedPhrases": [
+    "MIN",
+    "Boston"
+  ],
+  "nativeFeedSignals": [
+    "RISING",
+    "HOT"
+  ],
+  "observedWindow": {
+    "requested": "7_DAYS",
+    "oldestEvidenceAt": "2026-10-20T21:19:00.147Z",
+    "newestEvidenceAt": "2026-10-20T22:01:59.131Z"
+  },
+  "evidencePosts": [
+    {
+      "postId": "1xb54yp",
+      "title": "[Post Game Thread] The Detroit Pistons (1-0) overcome a 21 point deficit to storm back and defeat the Boston Celtics (0-1), 122-113!",
+      "subreddit": "nba",
+      "author": "MWiatrak2077",
+      "url": "https://www.reddit.com/r/nba/comments/1xb54yp/post_game_thread_the_detroit_pistons_10_overcome/",
+      "createdAt": "2026-10-20T21:44:15.973Z",
+      "score": 3747,
+      "commentCount": 552,
+      "scorePerHour": 578.66,
+      "commentsPerHour": 85.25,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": "Post Game Thread",
+      "postType": "text",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xb4is2",
+      "title": "[Highlight] Duncan Robinson hits another triple in the 4th quarter, and the Pistons are on a 18-0 run!",
+      "subreddit": "nba",
+      "author": "MrBuckBuck",
+      "url": "https://www.reddit.com/r/nba/comments/1xb4is2/highlight_duncan_robinson_hits_another_triple_in/",
+      "createdAt": "2026-10-20T21:19:00.147Z",
+      "score": 2391,
+      "commentCount": 109,
+      "scorePerHour": 346.71,
+      "commentsPerHour": 15.81,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": "Highlight",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xb4yop",
+      "title": "Jayson Tatum vs. Detroit Pistons MIN: 13, 11, 6/23 (26.1%) 3FG: 0/7 (0.0%)",
+      "subreddit": "nba",
+      "author": "PastaCheed",
+      "url": "https://www.reddit.com/r/nba/comments/1xb4yop/jayson_tatum_vs_detroit_pistons_min_13_11_623_261/",
+      "createdAt": "2026-10-20T21:36:59.331Z",
+      "score": 1350,
+      "commentCount": 397,
+      "scorePerHour": 204.65,
+      "commentsPerHour": 60.18,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": null,
+      "postType": "text",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xb530f",
+      "title": "Hugo Gonzalez in the loss vs the Pistons | 10 MIN | 0 PTS | 3 REB | 0 AST | 0/1 FG | 0/1 3FG | -15",
+      "subreddit": "nba",
+      "author": "rag5178",
+      "url": "https://www.reddit.com/r/nba/comments/1xb530f/hugo_gonzalez_in_the_loss_vs_the_pistons_10_min_0/",
+      "createdAt": "2026-10-20T21:41:59.390Z",
+      "score": 296,
+      "commentCount": 117,
+      "scorePerHour": 45.45,
+      "commentsPerHour": 17.96,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": null,
+      "postType": "text",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xb5kgn",
+      "title": "Pistons just registered the largest comeback on the first day of an NBA season in the league’s play-by-play era dating to 1997-98.",
+      "subreddit": "nba",
+      "author": "InternCautious",
+      "url": "https://www.reddit.com/r/nba/comments/1xb5kgn/pistons_just_registered_the_largest_comeback_on/",
+      "createdAt": "2026-10-20T22:01:59.131Z",
+      "score": 153,
+      "commentCount": 19,
+      "scorePerHour": 24.76,
+      "commentsPerHour": 3.07,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT"
+      ],
+      "flair": null,
+      "postType": "text",
+      "crosspostSubreddits": []
+    }
+  ],
+  "metadataCoverage": 1,
+  "mode": "HYBRID",
+  "analysisMode": "RULES_CLUSTERING",
+  "scrapedAt": "2026-10-21T04:12:51.771Z"
+},
+{
+  "rowType": "trending_topic",
+  "rank": 5,
+  "topicId": "01b6e56db138",
+  "topic": "LeBron James",
+  "trendScore": 76,
+  "trendTier": "BREAKOUT",
+  "confidence": "MEDIUM",
+  "trendSignals": [
+    "HIGH_SCORE_VELOCITY",
+    "HIGH_COMMENT_VELOCITY",
+    "MULTIPLE_BREAKOUT_POSTS",
+    "MULTIPLE_AUTHORS",
+    "MULTIPLE_SUBREDDITS",
+    "RISING_FEED_PRESENCE",
+    "HOT_FEED_PRESENCE",
+    "RECENT_POST_CLUSTER",
+    "REPEATED_TITLE_THEME"
+  ],
+  "weakeningSignals": [
+    "SINGLE_POST_DOMINANCE",
+    "SINGLE_SUBREDDIT_DOMINANCE"
+  ],
+  "trendSummary": "Discussion of LeBron James is breaking out across 2 subreddits: 12 posts by 10 authors, with 3 breakout posts and unusually high score and comment velocity.",
+  "metrics": {
+    "postCount": 12,
+    "rawPostCount": 14,
+    "uniqueAuthors": 10,
+    "uniqueSubreddits": 2,
+    "totalScore": 25428,
+    "totalComments": 2065,
+    "avgScore": 2119,
+    "medianScore": 398,
+    "avgComments": 172.1,
+    "medianComments": 108,
+    "avgScorePerHour": 301,
+    "medianScorePerHour": 74.2,
+    "avgCommentsPerHour": 34.4,
+    "medianCommentsPerHour": 14.2,
+    "breakoutPostCount": 3,
+    "hotPostCount": 11,
+    "risingPostCount": 8,
+    "newPostCount": 5,
+    "topPostCount": 0,
+    "crosspostCount": 2,
+    "medianAgeHours": 4.2
+  },
+  "scoreBreakdown": {
+    "engagementVelocity": 20.1,
+    "discussionVelocity": 16.1,
+    "breakoutPosts": 15,
+    "recency": 14.6,
+    "postFrequency": 9,
+    "authorDiversity": 4.2,
+    "subredditSpread": 1.7,
+    "nativeFeedSignals": 5,
+    "penalties": {
+      "singlePostDominance": -10
+    },
+    "total": 76
+  },
+  "topSubreddits": [
+    {
+      "subreddit": "nba",
+      "posts": 13
+    },
+    {
+      "subreddit": "movies",
+      "posts": 1
+    }
+  ],
+  "topSubreddit": "nba",
+  "topSubredditShare": 0.93,
+  "topAuthorShare": 0.33,
+  "crosspostSubreddits": [
+    "nba"
+  ],
+  "relatedPhrases": [],
+  "nativeFeedSignals": [
+    "RISING",
+    "HOT",
+    "NEW"
+  ],
+  "observedWindow": {
+    "requested": "7_DAYS",
+    "oldestEvidenceAt": "2026-10-20T17:07:13.643Z",
+    "newestEvidenceAt": "2026-10-21T02:12:27.271Z"
+  },
+  "evidencePosts": [
+    {
+      "postId": "1xbap68",
+      "title": "[Highlight] LeBron james: \"They win one chip and get a championship whistle.”",
+      "subreddit": "nba",
+      "author": "MuttonBiryaniEnjoyer",
+      "url": "https://www.reddit.com/r/nba/comments/1xbap68/highlight_lebron_james_they_win_one_chip_and_get/",
+      "createdAt": "2026-10-21T01:59:49.089Z",
+      "score": 1588,
+      "commentCount": 265,
+      "scorePerHour": 716.58,
+      "commentsPerHour": 119.58,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": "Highlight",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xb8gvw",
+      "title": "The Knicks fans in MSG chant to LeBron James, \"we don't want you\", during his second free throw, which he missed (he made the first one)",
+      "subreddit": "nba",
+      "author": "MrBuckBuck",
+      "url": "https://www.reddit.com/r/nba/comments/1xb8gvw/the_knicks_fans_in_msg_chant_to_lebron_james_we/",
+      "createdAt": "2026-10-21T00:12:01.594Z",
+      "score": 1237,
+      "commentCount": 277,
+      "scorePerHour": 308.28,
+      "commentsPerHour": 69.03,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": null,
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xazadg",
+      "title": "[The Onion] LeBron James Squeezes Eyes Shut To Avoid Catching Glimpse Of Philadelphia During Commute",
+      "subreddit": "nba",
+      "author": "Draciouz",
+      "url": "https://www.reddit.com/r/nba/comments/1xazadg/the_onion_lebron_james_squeezes_eyes_shut_to/",
+      "createdAt": "2026-10-20T18:00:05.180Z",
+      "score": 19148,
+      "commentCount": 418,
+      "scorePerHour": 1875.12,
+      "commentsPerHour": 40.93,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": null,
+      "postType": "multi_media",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xb1q1f",
+      "title": "Keanu Reeves in Talks to Star in James Wan’s ‘The Gangster, The Cop, The Devil’ (Exclusive)",
+      "subreddit": "movies",
+      "author": "yourfavchoom",
+      "url": "https://www.reddit.com/r/movies/comments/1xb1q1f/keanu_reeves_in_talks_to_star_in_james_wans_the/",
+      "createdAt": "2026-10-20T19:30:28.971Z",
+      "score": 215,
+      "commentCount": 53,
+      "scorePerHour": 24.7,
+      "commentsPerHour": 6.09,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": "Not Confirmed",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xbas6u",
+      "title": "LeBron James in his debut against the Knicks: 14 PTS, 9 REB, 7 AST",
+      "subreddit": "nba",
+      "author": "Waikuku3",
+      "url": "https://www.reddit.com/r/nba/comments/1xbas6u/lebron_james_in_his_debut_against_the_knicks_14/",
+      "createdAt": "2026-10-21T02:03:35.916Z",
+      "score": 520,
+      "commentCount": 168,
+      "scorePerHour": 241.52,
+      "commentsPerHour": 78.03,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": null,
+      "postType": "text",
+      "crosspostSubreddits": [
+        "nba"
+      ]
+    }
+  ],
+  "metadataCoverage": 1,
+  "mode": "HYBRID",
+  "analysisMode": "RULES_CLUSTERING",
+  "scrapedAt": "2026-10-21T04:12:51.771Z"
+},
+{
+  "rowType": "trending_topic",
+  "rank": 6,
+  "topicId": "52e269990bee",
+  "topic": "Jaylen Brown",
+  "trendScore": 76,
+  "trendTier": "BREAKOUT",
+  "confidence": "MEDIUM",
+  "trendSignals": [
+    "HIGH_SCORE_VELOCITY",
+    "HIGH_COMMENT_VELOCITY",
+    "MULTIPLE_BREAKOUT_POSTS",
+    "MULTIPLE_AUTHORS",
+    "RISING_FEED_PRESENCE",
+    "HOT_FEED_PRESENCE",
+    "RECENT_POST_CLUSTER",
+    "REPEATED_TITLE_THEME",
+    "RAPID_DISCUSSION_GROWTH"
+  ],
+  "weakeningSignals": [
+    "SINGLE_POST_DOMINANCE",
+    "SINGLE_SUBREDDIT_DOMINANCE"
+  ],
+  "trendSummary": "Discussion of Jaylen Brown is breaking out in r/nba: 8 posts by 7 authors, with 3 breakout posts and unusually high score and comment velocity.",
+  "metrics": {
+    "postCount": 8,
+    "rawPostCount": 8,
+    "uniqueAuthors": 7,
+    "uniqueSubreddits": 1,
+    "totalScore": 9595,
+    "totalComments": 2243,
+    "avgScore": 1199.4,
+    "medianScore": 469,
+    "avgComments": 280.4,
+    "medianComments": 91.5,
+    "avgScorePerHour": 214,
+    "medianScorePerHour": 166.2,
+    "avgCommentsPerHour": 43.6,
+    "medianCommentsPerHour": 32.5,
+    "breakoutPostCount": 3,
+    "hotPostCount": 8,
+    "risingPostCount": 5,
+    "newPostCount": 2,
+    "topPostCount": 0,
+    "crosspostCount": 0,
+    "medianAgeHours": 2.9
+  },
+  "scoreBreakdown": {
+    "engagementVelocity": 21.5,
+    "discussionVelocity": 17.9,
+    "breakoutPosts": 15,
+    "recency": 14.7,
+    "postFrequency": 7.5,
+    "authorDiversity": 4.4,
+    "subredditSpread": 0,
+    "nativeFeedSignals": 5,
+    "penalties": {
+      "singlePostDominance": -10
+    },
+    "total": 76
+  },
+  "topSubreddits": [
+    {
+      "subreddit": "nba",
+      "posts": 8
+    }
+  ],
+  "topSubreddit": "nba",
+  "topSubredditShare": 1,
+  "topAuthorShare": 0.25,
+  "crosspostSubreddits": [],
+  "relatedPhrases": [],
+  "nativeFeedSignals": [
+    "RISING",
+    "HOT",
+    "NEW"
+  ],
+  "observedWindow": {
+    "requested": "7_DAYS",
+    "oldestEvidenceAt": "2026-10-20T03:33:51.222Z",
+    "newestEvidenceAt": "2026-10-21T02:35:51.395Z"
+  },
+  "evidencePosts": [
+    {
+      "postId": "1xbapk5",
+      "title": "Jaylen Brown with a win against the Knicks in his 76ers debut: 19 points, 8 rebounds, 6 assists, 7-14 FG, 2-4 3P, 3-4 FT, +17 +/- in 35 minutes",
+      "subreddit": "nba",
+      "author": "DynastyInProcess",
+      "url": "https://www.reddit.com/r/nba/comments/1xbapk5/jaylen_brown_with_a_win_against_the_knicks_in_his/",
+      "createdAt": "2026-10-21T02:00:15.605Z",
+      "score": 898,
+      "commentCount": 265,
+      "scorePerHour": 406.57,
+      "commentsPerHour": 119.98,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": null,
+      "postType": "multi_media",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xb9fmk",
+      "title": "[Highlight] Lebron finishes the lob from Jaylen Brown",
+      "subreddit": "nba",
+      "author": "Large_banana_hammock",
+      "url": "https://www.reddit.com/r/nba/comments/1xb9fmk/highlight_lebron_finishes_the_lob_from_jaylen/",
+      "createdAt": "2026-10-21T00:58:23.308Z",
+      "score": 1672,
+      "commentCount": 106,
+      "scorePerHour": 516.06,
+      "commentsPerHour": 32.72,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": "Highlight",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xb9v8b",
+      "title": "[Highlight] Lebron hits Jaylen Brown on the inbound pass for a 3 to end the quarter",
+      "subreddit": "nba",
+      "author": "Large_banana_hammock",
+      "url": "https://www.reddit.com/r/nba/comments/1xb9v8b/highlight_lebron_hits_jaylen_brown_on_the_inbound/",
+      "createdAt": "2026-10-21T01:19:09.006Z",
+      "score": 719,
+      "commentCount": 77,
+      "scorePerHour": 248.46,
+      "commentsPerHour": 26.61,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": "Highlight",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xba07u",
+      "title": "Jaylen Brown So Far Tonight in 3 Quarters: 30 Mins, 19 points, 7-13 FG, 2-3 3PT, 3-4 FT, 6 rebounds, 5 assists",
+      "subreddit": "nba",
+      "author": "New-Process-6463",
+      "url": "https://www.reddit.com/r/nba/comments/1xba07u/jaylen_brown_so_far_tonight_in_3_quarters_30_mins/",
+      "createdAt": "2026-10-21T01:25:50.888Z",
+      "score": 219,
+      "commentCount": 136,
+      "scorePerHour": 78.71,
+      "commentsPerHour": 48.88,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": null,
+      "postType": "text",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xb9vw3",
+      "title": "[All-Access] View from the crowd as Jaylen Brown beats the 3Q buzzer",
+      "subreddit": "nba",
+      "author": "nba",
+      "url": "https://www.reddit.com/r/nba/comments/1xb9vw3/allaccess_view_from_the_crowd_as_jaylen_brown/",
+      "createdAt": "2026-10-21T01:19:59.616Z",
+      "score": 217,
+      "commentCount": 34,
+      "scorePerHour": 75.35,
+      "commentsPerHour": 11.81,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": "All-Access",
+      "postType": "video",
+      "crosspostSubreddits": []
+    }
+  ],
+  "metadataCoverage": 1,
+  "mode": "HYBRID",
+  "analysisMode": "RULES_CLUSTERING",
+  "scrapedAt": "2026-10-21T04:12:51.771Z"
+},
+{
+  "rowType": "trending_topic",
+  "rank": 7,
+  "topicId": "fef334399210",
+  "topic": "British",
+  "trendScore": 76,
+  "trendTier": "BREAKOUT",
+  "confidence": "MEDIUM",
+  "trendSignals": [
+    "HIGH_SCORE_VELOCITY",
+    "HIGH_COMMENT_VELOCITY",
+    "MULTIPLE_AUTHORS",
+    "MULTIPLE_SUBREDDITS",
+    "HOT_FEED_PRESENCE",
+    "RECENT_POST_CLUSTER",
+    "REPEATED_TITLE_THEME",
+    "CROSS_COMMUNITY_SPREAD",
+    "RAPID_DISCUSSION_GROWTH"
+  ],
+  "weakeningSignals": [
+    "LOW_EVIDENCE_COUNT"
+  ],
+  "trendSummary": "Discussion of British is breaking out across 3 subreddits: 3 posts by 3 authors, with 1 breakout post and unusually high score and comment velocity.",
+  "metrics": {
+    "postCount": 3,
+    "rawPostCount": 3,
+    "uniqueAuthors": 3,
+    "uniqueSubreddits": 3,
+    "totalScore": 15039,
+    "totalComments": 1370,
+    "avgScore": 5013,
+    "medianScore": 5400,
+    "avgComments": 456.7,
+    "medianComments": 245,
+    "avgScorePerHour": 912,
+    "medianScorePerHour": 230,
+    "avgCommentsPerHour": 118.6,
+    "medianCommentsPerHour": 18.2,
+    "breakoutPostCount": 1,
+    "hotPostCount": 3,
+    "risingPostCount": 0,
+    "newPostCount": 1,
+    "topPostCount": 0,
+    "crosspostCount": 0,
+    "medianAgeHours": 13.5
+  },
+  "scoreBreakdown": {
+    "engagementVelocity": 23.1,
+    "discussionVelocity": 17,
+    "breakoutPosts": 5,
+    "recency": 13.8,
+    "postFrequency": 4,
+    "authorDiversity": 5,
+    "subredditSpread": 3.3,
+    "nativeFeedSignals": 5,
+    "penalties": {},
+    "total": 76
+  },
+  "topSubreddits": [
+    {
+      "subreddit": "OldSchoolCool",
+      "posts": 1
+    },
+    {
+      "subreddit": "todayilearned",
+      "posts": 1
+    },
+    {
+      "subreddit": "worldnews",
+      "posts": 1
+    }
+  ],
+  "topSubreddit": "OldSchoolCool",
+  "topSubredditShare": 0.33,
+  "topAuthorShare": 0.33,
+  "crosspostSubreddits": [],
+  "relatedPhrases": [],
+  "nativeFeedSignals": [
+    "HOT",
+    "NEW"
+  ],
+  "observedWindow": {
+    "requested": "7_DAYS",
+    "oldestEvidenceAt": "2026-10-19T17:24:19.089Z",
+    "newestEvidenceAt": "2026-10-21T01:25:59.983Z"
+  },
+  "evidencePosts": [
+    {
+      "postId": "1xba0c0",
+      "title": "TIL Britain paid slave owners £20 million (roughly 40% of its annual government spending) to abolish slavery in 1833, while the 800,000+ people they enslaved received nothing. British taxpayers continued paying off government debt linked to that compensation until 2015, 182 years later.",
+      "subreddit": "todayilearned",
+      "author": "Onemightymoose",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1xba0c0/til_britain_paid_slave_owners_20_million_roughly/",
+      "createdAt": "2026-10-21T01:25:59.983Z",
+      "score": 6535,
+      "commentCount": 922,
+      "scorePerHour": 2350.96,
+      "commentsPerHour": 331.69,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "POPULAR_HOT"
+      ],
+      "flair": null,
+      "postType": "LINK",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xa32q2",
+      "title": "The British and Polish governments have criticized U.S. Defense Secretary Pete Hegseth, after he appeared to downplay the role fellow NATO members played in the Afghanistan war",
+      "subreddit": "worldnews",
+      "author": "sr_local",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xa32q2/the_british_and_polish_governments_have/",
+      "createdAt": "2026-10-19T17:24:19.089Z",
+      "score": 5400,
+      "commentCount": 203,
+      "scorePerHour": 155.14,
+      "commentsPerHour": 5.83,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW"
+      ],
+      "flair": null,
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xatzr6",
+      "title": "The cast of the hugely popular British show Dad’s Army (1970’s). The writers and actors often received lectures that the show was offensive to war veterans, despite the fact that most of the people involved were veterans, including two (Arnold Ridley and John Laurie top) who had been in the Somme.",
+      "subreddit": "OldSchoolCool",
+      "author": "RoadToTyburn",
+      "url": "https://www.reddit.com/r/OldSchoolCool/comments/1xatzr6/the_cast_of_the_hugely_popular_british_show_dads/",
+      "createdAt": "2026-10-20T14:43:09.316Z",
+      "score": 3104,
+      "commentCount": 245,
+      "scorePerHour": 230.03,
+      "commentsPerHour": 18.16,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "POPULAR_HOT"
+      ],
+      "flair": "1970s",
+      "postType": "IMAGE",
+      "crosspostSubreddits": []
+    }
+  ],
+  "metadataCoverage": 1,
+  "mode": "HYBRID",
+  "analysisMode": "RULES_CLUSTERING",
+  "scrapedAt": "2026-10-21T04:12:51.771Z"
+},
+{
+  "rowType": "trending_topic",
+  "rank": 8,
+  "topicId": "cb030491157b",
+  "topic": "Meta",
+  "trendScore": 74,
+  "trendTier": "BREAKOUT",
+  "confidence": "HIGH",
+  "trendSignals": [
+    "MULTIPLE_BREAKOUT_POSTS",
+    "MULTIPLE_AUTHORS",
+    "MULTIPLE_SUBREDDITS",
+    "RISING_FEED_PRESENCE",
+    "HOT_FEED_PRESENCE",
+    "RECENT_POST_CLUSTER",
+    "REPEATED_TITLE_THEME"
+  ],
+  "weakeningSignals": [],
+  "trendSummary": "Discussion of Meta is breaking out across 3 subreddits: 10 posts by 10 authors, with 2 breakout posts.",
+  "metrics": {
+    "postCount": 10,
+    "rawPostCount": 11,
+    "uniqueAuthors": 10,
+    "uniqueSubreddits": 3,
+    "totalScore": 40580,
+    "totalComments": 2227,
+    "avgScore": 4058,
+    "medianScore": 1850,
+    "avgComments": 222.7,
+    "medianComments": 125.5,
+    "avgScorePerHour": 135.8,
+    "medianScorePerHour": 59.7,
+    "avgCommentsPerHour": 6.9,
+    "medianCommentsPerHour": 3.4,
+    "breakoutPostCount": 2,
+    "hotPostCount": 9,
+    "risingPostCount": 2,
+    "newPostCount": 5,
+    "topPostCount": 0,
+    "crosspostCount": 1,
+    "medianAgeHours": 21.4
+  },
+  "scoreBreakdown": {
+    "engagementVelocity": 17.7,
+    "discussionVelocity": 11.3,
+    "breakoutPosts": 10,
+    "recency": 13.1,
+    "postFrequency": 8.3,
+    "authorDiversity": 5,
+    "subredditSpread": 3.3,
+    "nativeFeedSignals": 5,
+    "penalties": {},
+    "total": 74
+  },
+  "topSubreddits": [
+    {
+      "subreddit": "technology",
+      "posts": 9
+    },
+    {
+      "subreddit": "referralcodes",
+      "posts": 1
+    },
+    {
+      "subreddit": "worldnews",
+      "posts": 1
+    }
+  ],
+  "topSubreddit": "technology",
+  "topSubredditShare": 0.82,
+  "topAuthorShare": 0.2,
+  "crosspostSubreddits": [
+    "technology",
+    "worldnews"
+  ],
+  "relatedPhrases": [],
+  "nativeFeedSignals": [
+    "RISING",
+    "HOT",
+    "NEW"
+  ],
+  "observedWindow": {
+    "requested": "7_DAYS",
+    "oldestEvidenceAt": "2026-10-19T04:03:47.097Z",
+    "newestEvidenceAt": "2026-10-21T02:49:37.040Z"
+  },
+  "evidencePosts": [
+    {
+      "postId": "1xb1yfx",
+      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "subreddit": "technology",
+      "author": "abrownn",
+      "url": "https://www.reddit.com/r/technology/comments/1xb1yfx/meta_ignores_brazilian_court_order_to_end/",
+      "createdAt": "2026-10-20T19:39:04.477Z",
+      "score": 4083,
+      "commentCount": 136,
+      "scorePerHour": 476.89,
+      "commentsPerHour": 15.88,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": "Social Media",
+      "postType": "link",
+      "crosspostSubreddits": [
+        "worldnews"
+      ]
+    },
+    {
+      "postId": "1x9uihs",
+      "title": "Meta says it shut No Kings account because it suspected bots activity",
+      "subreddit": "technology",
+      "author": "thedubiousstylus",
+      "url": "https://www.reddit.com/comments/1x9uihs/",
+      "createdAt": "2026-10-19T11:37:47.505Z",
+      "score": 15903,
+      "commentCount": 1240,
+      "scorePerHour": 391.86,
+      "commentsPerHour": 30.55,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT"
+      ],
+      "flair": "Social Media",
+      "postType": null,
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xb0yjp",
+      "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
+      "subreddit": "technology",
+      "author": "AdSpecialist6598",
+      "url": "https://www.reddit.com/r/technology/comments/1xb0yjp/meta_tries_to_scapegoat_staff_who_downloaded/",
+      "createdAt": "2026-10-20T19:02:00.745Z",
+      "score": 236,
+      "commentCount": 7,
+      "scorePerHour": 25.71,
+      "commentsPerHour": 0.76,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": "Business",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xbbok3",
+      "title": "Muse by Meta invite code E6YZOI: we both get 1 billion Muse tokens (US/Canada, 18+)",
+      "subreddit": "referralcodes",
+      "author": "Mysterious_Boss6241",
+      "url": "https://www.reddit.com/r/referralcodes/comments/1xbbok3/muse_by_meta_invite_code_e6yzoi_we_both_get_1/",
+      "createdAt": "2026-10-21T02:48:06.255Z",
+      "score": 1,
+      "commentCount": 0,
+      "scorePerHour": 0.71,
+      "commentsPerHour": 0,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SEED_SEARCH"
+      ],
+      "flair": null,
+      "postType": null,
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1x9wo0r",
+      "title": "Meta Censors Over 1,080 Pro-Lula Accounts During Brazilian Presidential Election",
+      "subreddit": "technology",
+      "author": "pit_of_despair666",
+      "url": "https://www.reddit.com/comments/1x9wo0r/",
+      "createdAt": "2026-10-19T13:18:29.940Z",
+      "score": 7726,
+      "commentCount": 243,
+      "scorePerHour": 198.59,
+      "commentsPerHour": 6.25,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT"
+      ],
+      "flair": "Social Media",
+      "postType": null,
+      "crosspostSubreddits": []
+    }
+  ],
+  "metadataCoverage": 1,
+  "mode": "HYBRID",
+  "analysisMode": "RULES_CLUSTERING",
+  "scrapedAt": "2026-10-21T04:12:51.771Z"
+},
+{
+  "rowType": "trending_topic",
+  "rank": 9,
+  "topicId": "9c0f8c4ad800",
+  "topic": "Trailer",
+  "trendScore": 73,
+  "trendTier": "BREAKOUT",
+  "confidence": "HIGH",
+  "trendSignals": [
+    "MULTIPLE_BREAKOUT_POSTS",
+    "MULTIPLE_AUTHORS",
+    "MULTIPLE_SUBREDDITS",
+    "RISING_FEED_PRESENCE",
+    "HOT_FEED_PRESENCE",
+    "RECENT_POST_CLUSTER",
+    "REPEATED_TITLE_THEME"
+  ],
+  "weakeningSignals": [],
+  "trendSummary": "Discussion of Trailer is breaking out across 3 subreddits: 19 posts by 16 authors, with 3 breakout posts.",
+  "metrics": {
+    "postCount": 19,
+    "rawPostCount": 20,
+    "uniqueAuthors": 16,
+    "uniqueSubreddits": 3,
+    "totalScore": 4815,
+    "totalComments": 1668,
+    "avgScore": 253.4,
+    "medianScore": 58,
+    "avgComments": 87.8,
+    "medianComments": 18,
+    "avgScorePerHour": 25.6,
+    "medianScorePerHour": 2.6,
+    "avgCommentsPerHour": 8.5,
+    "medianCommentsPerHour": 0.7,
+    "breakoutPostCount": 3,
+    "hotPostCount": 17,
+    "risingPostCount": 4,
+    "newPostCount": 15,
+    "topPostCount": 0,
+    "crosspostCount": 1,
+    "medianAgeHours": 12.6
+  },
+  "scoreBreakdown": {
+    "engagementVelocity": 12.7,
+    "discussionVelocity": 9.3,
+    "breakoutPosts": 15,
+    "recency": 13.9,
+    "postFrequency": 10,
+    "authorDiversity": 4.2,
+    "subredditSpread": 3.3,
+    "nativeFeedSignals": 5,
+    "penalties": {},
+    "total": 73
+  },
+  "topSubreddits": [
+    {
+      "subreddit": "movies",
+      "posts": 14
+    },
+    {
+      "subreddit": "gaming",
+      "posts": 5
+    },
+    {
+      "subreddit": "CDrama",
+      "posts": 1
+    }
+  ],
+  "topSubreddit": "movies",
+  "topSubredditShare": 0.7,
+  "topAuthorShare": 0.21,
+  "crosspostSubreddits": [
+    "movies"
+  ],
+  "relatedPhrases": [
+    "Official Trailer"
+  ],
+  "nativeFeedSignals": [
+    "RISING",
+    "HOT",
+    "NEW"
+  ],
+  "observedWindow": {
+    "requested": "7_DAYS",
+    "oldestEvidenceAt": "2026-10-18T06:43:16.538Z",
+    "newestEvidenceAt": "2026-10-21T02:07:45.156Z"
+  },
+  "evidencePosts": [
+    {
+      "postId": "1xb6v2f",
+      "title": "'Narnia: Magician's Nephew' Trailer Clocks 481M+ Views, Bests 'Barbie'",
+      "subreddit": "movies",
+      "author": "JoJoWithTheFroyo",
+      "url": "https://www.reddit.com/r/movies/comments/1xb6v2f/narnia_magicians_nephew_trailer_clocks_481m_views/",
+      "createdAt": "2026-10-20T22:58:51.575Z",
+      "score": 746,
+      "commentCount": 239,
+      "scorePerHour": 142.58,
+      "commentsPerHour": 45.68,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": "Article",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xayqax",
+      "title": "Shrek 2 Remastered - Announce Trailer",
+      "subreddit": "gaming",
+      "author": "ChiefLeef22",
+      "url": "https://www.reddit.com/r/gaming/comments/1xayqax/shrek_2_remastered_announce_trailer/",
+      "createdAt": "2026-10-20T17:40:05.984Z",
+      "score": 1826,
+      "commentCount": 438,
+      "scorePerHour": 173.17,
+      "commentsPerHour": 41.54,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": null,
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xb9169",
+      "title": "Crimson Desert Enhanced: Charting the Unknown features trailer",
+      "subreddit": "gaming",
+      "author": "Iggy_Slayer",
+      "url": "https://www.reddit.com/r/gaming/comments/1xb9169/crimson_desert_enhanced_charting_the_unknown/",
+      "createdAt": "2026-10-21T00:38:55.400Z",
+      "score": 272,
+      "commentCount": 162,
+      "scorePerHour": 76.31,
+      "commentsPerHour": 45.45,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": null,
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xawcdn",
+      "title": "'Above the Below' | Official Trailer | Directed by Idris Elba | A trio of astronauts survive a destructive re-entry to Earth and find that they are cut off from the world.",
+      "subreddit": "movies",
+      "author": "BunyipPouch",
+      "url": "https://www.reddit.com/r/movies/comments/1xawcdn/above_the_below_official_trailer_directed_by/",
+      "createdAt": "2026-10-20T16:11:07.989Z",
+      "score": 616,
+      "commentCount": 171,
+      "scorePerHour": 51.22,
+      "commentsPerHour": 14.22,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": "Trailer",
+      "postType": "link",
+      "crosspostSubreddits": [
+        "movies"
+      ]
+    },
+    {
+      "postId": "1xbavbb",
+      "title": "Small Town Remedy 小城良方 🩺 from 🥝 iQIYI. 📺 Airing today, October 21, 2026 at 7:30 pm. Starring Xiao Zhan, Shi Pengyuan, Zhang Guoqiang, Jiang Yan, Ni Dahong and Jian Renzi. New trailer.",
+      "subreddit": "CDrama",
+      "author": "admelioremvitam",
+      "url": "https://www.reddit.com/r/CDrama/comments/1xbavbb/small_town_remedy_%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9_from_iqiyi_airing_today/",
+      "createdAt": "2026-10-21T02:07:45.156Z",
+      "score": 12,
+      "commentCount": 2,
+      "scorePerHour": 5.76,
+      "commentsPerHour": 0.96,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SEED_SEARCH"
+      ],
+      "flair": null,
+      "postType": null,
+      "crosspostSubreddits": []
+    }
+  ],
+  "metadataCoverage": 1,
+  "mode": "HYBRID",
+  "analysisMode": "RULES_CLUSTERING",
+  "scrapedAt": "2026-10-21T04:12:51.771Z"
+},
+{
+  "rowType": "trending_topic",
+  "rank": 10,
+  "topicId": "308fe6c7f9d4",
+  "topic": "SGA",
+  "trendScore": 70,
+  "trendTier": "RISING",
+  "confidence": "HIGH",
+  "trendSignals": [
+    "HIGH_COMMENT_VELOCITY",
+    "MULTIPLE_AUTHORS",
+    "RISING_FEED_PRESENCE",
+    "HOT_FEED_PRESENCE",
+    "RECENT_POST_CLUSTER",
+    "REPEATED_TITLE_THEME"
+  ],
+  "weakeningSignals": [
+    "SINGLE_SUBREDDIT_DOMINANCE"
+  ],
+  "trendSummary": "Discussion of SGA is rising in r/nba: 16 posts by 6 authors, with 1 breakout post and unusually high comment velocity.",
+  "metrics": {
+    "postCount": 16,
+    "rawPostCount": 17,
+    "uniqueAuthors": 6,
+    "uniqueSubreddits": 1,
+    "totalScore": 1169,
+    "totalComments": 484,
+    "avgScore": 73.1,
+    "medianScore": 58,
+    "avgComments": 30.3,
+    "medianComments": 25.5,
+    "avgScorePerHour": 54.7,
+    "medianScorePerHour": 47,
+    "avgCommentsPerHour": 23.5,
+    "medianCommentsPerHour": 20.7,
+    "breakoutPostCount": 1,
+    "hotPostCount": 10,
+    "risingPostCount": 1,
+    "newPostCount": 16,
+    "topPostCount": 0,
+    "crosspostCount": 1,
+    "medianAgeHours": 1.3
+  },
+  "scoreBreakdown": {
+    "engagementVelocity": 18,
+    "discussionVelocity": 15.9,
+    "breakoutPosts": 5,
+    "recency": 14.9,
+    "postFrequency": 10,
+    "authorDiversity": 1.9,
+    "subredditSpread": 0,
+    "nativeFeedSignals": 4.4,
+    "penalties": {},
+    "total": 70
+  },
+  "topSubreddits": [
+    {
+      "subreddit": "nba",
+      "posts": 17
+    }
+  ],
+  "topSubreddit": "nba",
+  "topSubredditShare": 1,
+  "topAuthorShare": 0.5,
+  "crosspostSubreddits": [
+    "nba"
+  ],
+  "relatedPhrases": [],
+  "nativeFeedSignals": [
+    "RISING",
+    "HOT",
+    "NEW"
+  ],
+  "observedWindow": {
+    "requested": "7_DAYS",
+    "oldestEvidenceAt": "2026-10-21T01:57:13.048Z",
+    "newestEvidenceAt": "2026-10-21T03:51:10.269Z"
+  },
+  "evidencePosts": [
+    {
+      "postId": "1xbburf",
+      "title": "SGA in the first half: 16/1/4 and 2 blocks on 7-11 shooting and 2/2 from deep",
+      "subreddit": "nba",
+      "author": "OKC2023champs",
+      "url": "https://www.reddit.com/r/nba/comments/1xbburf/sga_in_the_first_half_1614_and_2_blocks_on_711/",
+      "createdAt": "2026-10-21T02:56:36.630Z",
+      "score": 297,
+      "commentCount": 110,
+      "scorePerHour": 233.94,
+      "commentsPerHour": 86.65,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": null,
+      "postType": "text",
+      "crosspostSubreddits": [
+        "nba"
+      ]
+    },
+    {
+      "postId": "1xbcnay",
+      "title": "[Highlight] SGA puts Carter Bryant in the spin cycle and gets the floater to fall",
+      "subreddit": "nba",
+      "author": "LiamHundley",
+      "url": "https://www.reddit.com/r/nba/comments/1xbcnay/highlight_sga_puts_carter_bryant_in_the_spin/",
+      "createdAt": "2026-10-21T03:37:08.792Z",
+      "score": 99,
+      "commentCount": 46,
+      "scorePerHour": 99,
+      "commentsPerHour": 46,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW"
+      ],
+      "flair": "Highlight",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xbbm85",
+      "title": "SGA Hits The Mid Range Over Dylan Harper For His 11th Point - OKC Up 18",
+      "subreddit": "nba",
+      "author": "New-Process-6463",
+      "url": "https://www.reddit.com/r/nba/comments/1xbbm85/sga_hits_the_mid_range_over_dylan_harper_for_his/",
+      "createdAt": "2026-10-21T02:44:59.250Z",
+      "score": 88,
+      "commentCount": 33,
+      "scorePerHour": 60.14,
+      "commentsPerHour": 22.55,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW"
+      ],
+      "flair": null,
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xbbus1",
+      "title": "[Highlight] SGA passes behind Wemby for a Holmgren dunk",
+      "subreddit": "nba",
+      "author": "Large_banana_hammock",
+      "url": "https://www.reddit.com/r/nba/comments/1xbbus1/highlight_sga_passes_behind_wemby_for_a_holmgren/",
+      "createdAt": "2026-10-21T02:56:38.148Z",
+      "score": 85,
+      "commentCount": 24,
+      "scorePerHour": 66.98,
+      "commentsPerHour": 18.91,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW"
+      ],
+      "flair": "Highlight",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xbbxj6",
+      "title": "[Highlight] SGA with a tough mid-range jumper over Harper",
+      "subreddit": "nba",
+      "author": "catreyka",
+      "url": "https://www.reddit.com/r/nba/comments/1xbbxj6/highlight_sga_with_a_tough_midrange_jumper_over/",
+      "createdAt": "2026-10-21T03:00:31.073Z",
+      "score": 59,
+      "commentCount": 30,
+      "scorePerHour": 48.99,
+      "commentsPerHour": 24.91,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW"
+      ],
+      "flair": "Highlight",
+      "postType": "link",
+      "crosspostSubreddits": []
+    }
+  ],
+  "metadataCoverage": 1,
+  "mode": "HYBRID",
+  "analysisMode": "RULES_CLUSTERING",
+  "scrapedAt": "2026-10-21T04:12:51.771Z"
+},
+{
+  "rowType": "trending_topic",
+  "rank": 11,
+  "topicId": "a56327f1970b",
+  "topic": "Jalen",
+  "trendScore": 70,
+  "trendTier": "RISING",
+  "confidence": "HIGH",
+  "trendSignals": [
+    "HIGH_COMMENT_VELOCITY",
+    "MULTIPLE_AUTHORS",
+    "RISING_FEED_PRESENCE",
+    "HOT_FEED_PRESENCE",
+    "RECENT_POST_CLUSTER",
+    "REPEATED_TITLE_THEME",
+    "REPEATED_KEYPHRASE"
+  ],
+  "weakeningSignals": [
+    "SINGLE_SUBREDDIT_DOMINANCE"
+  ],
+  "trendSummary": "Discussion of Jalen is rising in r/nba: 9 posts by 8 authors, with 1 breakout post and unusually high comment velocity.",
+  "metrics": {
+    "postCount": 9,
+    "rawPostCount": 10,
+    "uniqueAuthors": 8,
+    "uniqueSubreddits": 1,
+    "totalScore": 4082,
+    "totalComments": 828,
+    "avgScore": 453.6,
+    "medianScore": 113,
+    "avgComments": 92,
+    "medianComments": 40,
+    "avgScorePerHour": 74.3,
+    "medianScorePerHour": 35.7,
+    "avgCommentsPerHour": 29.5,
+    "medianCommentsPerHour": 12.4,
+    "breakoutPostCount": 1,
+    "hotPostCount": 7,
+    "risingPostCount": 2,
+    "newPostCount": 5,
+    "topPostCount": 0,
+    "crosspostCount": 1,
+    "medianAgeHours": 2.2
+  },
+  "scoreBreakdown": {
+    "engagementVelocity": 17.3,
+    "discussionVelocity": 15.2,
+    "breakoutPosts": 5,
+    "recency": 14.8,
+    "postFrequency": 7.9,
+    "authorDiversity": 4.4,
+    "subredditSpread": 0,
+    "nativeFeedSignals": 5,
+    "penalties": {},
+    "total": 70
+  },
+  "topSubreddits": [
+    {
+      "subreddit": "nba",
+      "posts": 10
+    }
+  ],
+  "topSubreddit": "nba",
+  "topSubredditShare": 1,
+  "topAuthorShare": 0.33,
+  "crosspostSubreddits": [
+    "nba"
+  ],
+  "relatedPhrases": [
+    "Brunson",
+    "Jalen Williams",
+    "Jalen Brunson"
+  ],
+  "nativeFeedSignals": [
+    "RISING",
+    "HOT",
+    "NEW"
+  ],
+  "observedWindow": {
+    "requested": "7_DAYS",
+    "oldestEvidenceAt": "2026-10-20T14:27:30.645Z",
+    "newestEvidenceAt": "2026-10-21T03:15:29.478Z"
+  },
+  "evidencePosts": [
+    {
+      "postId": "1xbargp",
+      "title": "Jalen Brunson locked up by the Sixers in Knicks loss tonight: 21 points on just 6-19 shooting and a -11!",
+      "subreddit": "nba",
+      "author": "Pyromania1983",
+      "url": "https://www.reddit.com/r/nba/comments/1xbargp/jalen_brunson_locked_up_by_the_sixers_in_knicks/",
+      "createdAt": "2026-10-21T02:02:36.830Z",
+      "score": 414,
+      "commentCount": 365,
+      "scorePerHour": 190.83,
+      "commentsPerHour": 168.24,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": null,
+      "postType": "multi_media",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xb50zd",
+      "title": "Jalen Duren in the win against the Celtics: 28 MIN | 22 PTS | 9 REB | 1 AST | 8/13 FG | 1 STL | 1 BLK | 6/7 FTS | 68.4% TS",
+      "subreddit": "nba",
+      "author": "Draciouz",
+      "url": "https://www.reddit.com/r/nba/comments/1xb50zd/jalen_duren_in_the_win_against_the_celtics_28_min/",
+      "createdAt": "2026-10-20T21:39:42.321Z",
+      "score": 939,
+      "commentCount": 185,
+      "scorePerHour": 143.33,
+      "commentsPerHour": 28.24,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": null,
+      "postType": "multi_media",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xatlsv",
+      "title": "[The Players' Tribune] Dear Jalen | By Sandra Brunson (Jalen's mom): \"I’m pulling the Mom Card and demanding that you let yourself enjoy the moment. This is NOT just another game day… tonight, you’ll be playing basketball for the first time as an NBA champion. And I’m so, so, so proud of you.\"",
+      "subreddit": "nba",
+      "author": "HokageEzio",
+      "url": "https://www.reddit.com/r/nba/comments/1xatlsv/the_players_tribune_dear_jalen_by_sandra_brunson/",
+      "createdAt": "2026-10-20T14:27:30.645Z",
+      "score": 2230,
+      "commentCount": 141,
+      "scorePerHour": 162.13,
+      "commentsPerHour": 10.25,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT"
+      ],
+      "flair": null,
+      "postType": "multi_media",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xbao0a",
+      "title": "[Lowlight] Embiid and Brunson both miss badly from 3, putting Philly in position to win",
+      "subreddit": "nba",
+      "author": "Large_banana_hammock",
+      "url": "https://www.reddit.com/r/nba/comments/1xbao0a/lowlight_embiid_and_brunson_both_miss_badly_from/",
+      "createdAt": "2026-10-21T01:58:10.588Z",
+      "score": 80,
+      "commentCount": 52,
+      "scorePerHour": 35.66,
+      "commentsPerHour": 23.18,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW"
+      ],
+      "flair": null,
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xb9gj6",
+      "title": "[Highlight] Joel Embiid with great defense on the entire possession.Doesn't let Jalen Brunson past by him, and forces a tough shot on OG Anunoby, at the end of the shot clock",
+      "subreddit": "nba",
+      "author": "MrBuckBuck",
+      "url": "https://www.reddit.com/r/nba/comments/1xb9gj6/highlight_joel_embiid_with_great_defense_on_the/",
+      "createdAt": "2026-10-21T00:59:40.792Z",
+      "score": 171,
+      "commentCount": 40,
+      "scorePerHour": 53.13,
+      "commentsPerHour": 12.43,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT"
+      ],
+      "flair": "Highlight",
+      "postType": "link",
+      "crosspostSubreddits": []
+    }
+  ],
+  "metadataCoverage": 1,
+  "mode": "HYBRID",
+  "analysisMode": "RULES_CLUSTERING",
+  "scrapedAt": "2026-10-21T04:12:51.771Z"
+},
+{
+  "rowType": "trending_topic",
+  "rank": 12,
+  "topicId": "cdbd4d67f65e",
+  "topic": "Knicks",
+  "trendScore": 63,
+  "trendTier": "RISING",
+  "confidence": "MEDIUM",
+  "trendSignals": [
+    "HIGH_COMMENT_VELOCITY",
+    "MULTIPLE_BREAKOUT_POSTS",
+    "MULTIPLE_AUTHORS",
+    "RISING_FEED_PRESENCE",
+    "HOT_FEED_PRESENCE",
+    "RECENT_POST_CLUSTER",
+    "REPEATED_TITLE_THEME",
+    "RAPID_DISCUSSION_GROWTH"
+  ],
+  "weakeningSignals": [
+    "SINGLE_SUBREDDIT_DOMINANCE"
+  ],
+  "trendSummary": "Discussion of Knicks is rising in r/nba: 4 posts by 4 authors, with 2 breakout posts and unusually high comment velocity.",
+  "metrics": {
+    "postCount": 4,
+    "rawPostCount": 4,
+    "uniqueAuthors": 4,
+    "uniqueSubreddits": 1,
+    "totalScore": 2223,
+    "totalComments": 640,
+    "avgScore": 555.8,
+    "medianScore": 458,
+    "avgComments": 160,
+    "medianComments": 158,
+    "avgScorePerHour": 116.4,
+    "medianScorePerHour": 71.2,
+    "avgCommentsPerHour": 49.1,
+    "medianCommentsPerHour": 36.4,
+    "breakoutPostCount": 2,
+    "hotPostCount": 3,
+    "risingPostCount": 3,
+    "newPostCount": 1,
+    "topPostCount": 0,
+    "crosspostCount": 0,
+    "medianAgeHours": 5.2
+  },
+  "scoreBreakdown": {
+    "engagementVelocity": 16,
+    "discussionVelocity": 17.7,
+    "breakoutPosts": 10,
+    "recency": 14.5,
+    "postFrequency": 5,
+    "authorDiversity": 5,
+    "subredditSpread": 0,
+    "nativeFeedSignals": 5,
+    "penalties": {
+      "singlePostDominance": -10
+    },
+    "total": 63
+  },
+  "topSubreddits": [
+    {
+      "subreddit": "nba",
+      "posts": 4
+    }
+  ],
+  "topSubreddit": "nba",
+  "topSubredditShare": 1,
+  "topAuthorShare": 0.25,
+  "crosspostSubreddits": [],
+  "relatedPhrases": [
+    "Championship rings",
+    "York"
+  ],
+  "nativeFeedSignals": [
+    "RISING",
+    "HOT",
+    "NEW"
+  ],
+  "observedWindow": {
+    "requested": "7_DAYS",
+    "oldestEvidenceAt": "2026-10-20T21:35:48.717Z",
+    "newestEvidenceAt": "2026-10-21T02:08:30.854Z"
+  },
+  "evidencePosts": [
+    {
+      "postId": "1xb8fj9",
+      "title": "A closer look at the Knicks' championship ring.It opens up to look like MSG",
+      "subreddit": "nba",
+      "author": "MrBuckBuck",
+      "url": "https://www.reddit.com/r/nba/comments/1xb8fj9/a_closer_look_at_the_knicks_championship_ringit/",
+      "createdAt": "2026-10-21T00:10:19.999Z",
+      "score": 1307,
+      "commentCount": 241,
+      "scorePerHour": 323.45,
+      "commentsPerHour": 59.64,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": null,
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xbavv8",
+      "title": "Was the 2026 New York Knicks run the weakest championship of all time?",
+      "subreddit": "nba",
+      "author": "Chief-Superintendent",
+      "url": "https://www.reddit.com/r/nba/comments/1xbavv8/was_the_2026_new_york_knicks_run_the_weakest/",
+      "createdAt": "2026-10-21T02:08:30.854Z",
+      "score": 0,
+      "commentCount": 229,
+      "scorePerHour": 0,
+      "commentsPerHour": 110.57,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_NEW"
+      ],
+      "flair": null,
+      "postType": "text",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xb5fgi",
+      "title": "[The Athletic] The Knicks' Championship banner will have a little extra company in the rafters: The 2025 NBA Cup Champions",
+      "subreddit": "nba",
+      "author": "HokageEzio",
+      "url": "https://www.reddit.com/r/nba/comments/1xb5fgi/the_athletic_the_knicks_championship_banner_will/",
+      "createdAt": "2026-10-20T21:56:21.035Z",
+      "score": 467,
+      "commentCount": 83,
+      "scorePerHour": 74.44,
+      "commentsPerHour": 13.23,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": null,
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xb4xnm",
+      "title": "Knicks reveal their championship jerseys",
+      "subreddit": "nba",
+      "author": "jonsnowKITN",
+      "url": "https://www.reddit.com/r/nba/comments/1xb4xnm/knicks_reveal_their_championship_jerseys/",
+      "createdAt": "2026-10-20T21:35:48.717Z",
+      "score": 449,
+      "commentCount": 87,
+      "scorePerHour": 67.86,
+      "commentsPerHour": 13.15,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": null,
+      "postType": "link",
+      "crosspostSubreddits": []
+    }
+  ],
+  "metadataCoverage": 1,
+  "mode": "HYBRID",
+  "analysisMode": "RULES_CLUSTERING",
+  "scrapedAt": "2026-10-21T04:12:51.771Z"
+},
+{
+  "rowType": "trending_topic",
+  "rank": 13,
+  "topicId": "e42776aa5123",
+  "topic": "Netflix",
+  "trendScore": 58,
+  "trendTier": "RISING",
+  "confidence": "HIGH",
+  "trendSignals": [
+    "MULTIPLE_AUTHORS",
+    "MULTIPLE_SUBREDDITS",
+    "HOT_FEED_PRESENCE",
+    "RECENT_POST_CLUSTER",
+    "REPEATED_TITLE_THEME",
+    "CROSS_COMMUNITY_SPREAD"
+  ],
+  "weakeningSignals": [],
+  "trendSummary": "Discussion of Netflix is rising across 3 subreddits: 5 posts by 5 authors.",
+  "metrics": {
+    "postCount": 5,
+    "rawPostCount": 5,
+    "uniqueAuthors": 5,
+    "uniqueSubreddits": 3,
+    "totalScore": 1474,
+    "totalComments": 589,
+    "avgScore": 294.8,
+    "medianScore": 337,
+    "avgComments": 117.8,
+    "medianComments": 87,
+    "avgScorePerHour": 10.5,
+    "medianScorePerHour": 10,
+    "avgCommentsPerHour": 4.5,
+    "medianCommentsPerHour": 3.6,
+    "breakoutPostCount": 0,
+    "hotPostCount": 4,
+    "risingPostCount": 0,
+    "newPostCount": 2,
+    "topPostCount": 0,
+    "crosspostCount": 0,
+    "medianAgeHours": 27.4
+  },
+  "scoreBreakdown": {
+    "engagementVelocity": 14.4,
+    "discussionVelocity": 12.4,
+    "breakoutPosts": 0,
+    "recency": 12.6,
+    "postFrequency": 5.8,
+    "authorDiversity": 5,
+    "subredditSpread": 3.3,
+    "nativeFeedSignals": 4.8,
+    "penalties": {},
+    "total": 58
+  },
+  "topSubreddits": [
+    {
+      "subreddit": "movies",
+      "posts": 3
+    },
+    {
+      "subreddit": "IndianOTTbestof",
+      "posts": 1
+    },
+    {
+      "subreddit": "technology",
+      "posts": 1
+    }
+  ],
+  "topSubreddit": "movies",
+  "topSubredditShare": 0.6,
+  "topAuthorShare": 0.2,
+  "crosspostSubreddits": [],
+  "relatedPhrases": [],
+  "nativeFeedSignals": [
+    "HOT",
+    "NEW"
+  ],
+  "observedWindow": {
+    "requested": "7_DAYS",
+    "oldestEvidenceAt": "2026-10-19T14:26:20.551Z",
+    "newestEvidenceAt": "2026-10-21T04:09:27.700Z"
+  },
+  "evidencePosts": [
+    {
+      "postId": "1xae8kd",
+      "title": "Why Netflix Fired Dan Lin (and the Truth About His Tension With Greta Gerwig Over ‘Narnia’)",
+      "subreddit": "movies",
+      "author": "TiredWithCoffeePot",
+      "url": "https://www.reddit.com/r/movies/comments/1xae8kd/why_netflix_fired_dan_lin_and_the_truth_about_his/",
+      "createdAt": "2026-10-20T00:48:00.288Z",
+      "score": 337,
+      "commentCount": 266,
+      "scorePerHour": 12.29,
+      "commentsPerHour": 9.7,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT"
+      ],
+      "flair": "News",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xb8kk1",
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "subreddit": "technology",
+      "author": "Logical_Welder3467",
+      "url": "https://www.reddit.com/r/technology/comments/1xb8kk1/hugging_face_ceo_warns_that_netflixs_openai_hack/",
+      "createdAt": "2026-10-21T00:17:01.389Z",
+      "score": 37,
+      "commentCount": 14,
+      "scorePerHour": 9.42,
+      "commentsPerHour": 3.56,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW"
+      ],
+      "flair": "Business",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xbd9ax",
+      "title": "'The Paradise' hyper violent Telugu film streams on Netflix on October 22",
+      "subreddit": "IndianOTTbestof",
+      "author": "DonkChonk4",
+      "url": "https://www.reddit.com/r/IndianOTTbestof/comments/1xbd9ax/the_paradise_hyper_violent_telugu_film_streams_on/",
+      "createdAt": "2026-10-21T04:09:27.700Z",
+      "score": 1,
+      "commentCount": 1,
+      "scorePerHour": 1,
+      "commentsPerHour": 1,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "POPULAR_NEW"
+      ],
+      "flair": null,
+      "postType": "image",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1x9zvq7",
+      "title": "Dan Lin Out as Netflix Film Chief",
+      "subreddit": "movies",
+      "author": "MarvelsGrantMan136",
+      "url": "https://www.reddit.com/r/movies/comments/1x9zvq7/dan_lin_out_as_netflix_film_chief/",
+      "createdAt": "2026-10-19T15:25:26.323Z",
+      "score": 721,
+      "commentCount": 221,
+      "scorePerHour": 19.6,
+      "commentsPerHour": 6.01,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT"
+      ],
+      "flair": "News",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1x9yc44",
+      "title": "Netflix has bought a raft of films and series from Brazilian powerhouse Globo including Walter Salles’ Oscar-winning movie I’m Still Here",
+      "subreddit": "movies",
+      "author": "Puzzled-Tap8042",
+      "url": "https://www.reddit.com/r/movies/comments/1x9yc44/netflix_has_bought_a_raft_of_films_and_series/",
+      "createdAt": "2026-10-19T14:26:20.551Z",
+      "score": 378,
+      "commentCount": 87,
+      "scorePerHour": 10.01,
+      "commentsPerHour": 2.3,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT"
+      ],
+      "flair": "News",
+      "postType": "link",
+      "crosspostSubreddits": []
+    }
+  ],
+  "metadataCoverage": 1,
+  "mode": "HYBRID",
+  "analysisMode": "RULES_CLUSTERING",
+  "scrapedAt": "2026-10-21T04:12:51.771Z"
+},
+{
+  "rowType": "trending_topic",
+  "rank": 14,
+  "topicId": "1a0e44bdf948",
+  "topic": "Hellraiser",
+  "trendScore": 54,
+  "trendTier": "RISING",
+  "confidence": "MEDIUM",
+  "trendSignals": [
+    "HIGH_SCORE_VELOCITY",
+    "MULTIPLE_AUTHORS",
+    "MULTIPLE_SUBREDDITS",
+    "HOT_FEED_PRESENCE",
+    "RECENT_POST_CLUSTER",
+    "REPEATED_TITLE_THEME"
+  ],
+  "weakeningSignals": [
+    "SINGLE_POST_DOMINANCE",
+    "LOW_EVIDENCE_COUNT"
+  ],
+  "trendSummary": "Discussion of Hellraiser is rising across 2 subreddits: 3 posts by 3 authors, with 1 breakout post and unusually high score velocity.",
+  "metrics": {
+    "postCount": 3,
+    "rawPostCount": 3,
+    "uniqueAuthors": 3,
+    "uniqueSubreddits": 2,
+    "totalScore": 13678,
+    "totalComments": 1001,
+    "avgScore": 4559.3,
+    "medianScore": 3683,
+    "avgComments": 333.7,
+    "medianComments": 265,
+    "avgScorePerHour": 88.1,
+    "medianScorePerHour": 45,
+    "avgCommentsPerHour": 5.3,
+    "medianCommentsPerHour": 5.4,
+    "breakoutPostCount": 1,
+    "hotPostCount": 3,
+    "risingPostCount": 0,
+    "newPostCount": 2,
+    "topPostCount": 0,
+    "crosspostCount": 0,
+    "medianAgeHours": 49
+  },
+  "scoreBreakdown": {
+    "engagementVelocity": 19.1,
+    "discussionVelocity": 13.2,
+    "breakoutPosts": 5,
+    "recency": 10.6,
+    "postFrequency": 4,
+    "authorDiversity": 5,
+    "subredditSpread": 1.7,
+    "nativeFeedSignals": 5,
+    "penalties": {
+      "singlePostDominance": -10
+    },
+    "total": 54
+  },
+  "topSubreddits": [
+    {
+      "subreddit": "gaming",
+      "posts": 2
+    },
+    {
+      "subreddit": "technology",
+      "posts": 1
+    }
+  ],
+  "topSubreddit": "gaming",
+  "topSubredditShare": 0.67,
+  "topAuthorShare": 0.33,
+  "crosspostSubreddits": [],
+  "relatedPhrases": [
+    "Revival"
+  ],
+  "nativeFeedSignals": [
+    "HOT",
+    "NEW"
+  ],
+  "observedWindow": {
+    "requested": "7_DAYS",
+    "oldestEvidenceAt": "2026-10-17T18:16:22.483Z",
+    "newestEvidenceAt": "2026-10-20T12:32:47.299Z"
+  },
+  "evidencePosts": [
+    {
+      "postId": "1x9lzj1",
+      "title": "(NSFW) I know Hellraiser Revival is sexually explicit, but this was too much for me.",
+      "subreddit": "gaming",
+      "author": "dewhashish",
+      "url": "https://www.reddit.com/comments/1x9lzj1/",
+      "createdAt": "2026-10-19T03:10:19.313Z",
+      "score": 9638,
+      "commentCount": 265,
+      "scorePerHour": 196.53,
+      "commentsPerHour": 5.4,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT"
+      ],
+      "flair": null,
+      "postType": "image",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xaqwl2",
+      "title": "Clive Barker says he's \"genuinely astonished\" by Hellraiser: Revival: \"I'm proud as f**k at the end result\": \"I think what was achieved in the game is a wake-up call\".",
+      "subreddit": "technology",
+      "author": "ControlCAD",
+      "url": "https://www.reddit.com/r/technology/comments/1xaqwl2/clive_barker_says_hes_genuinely_astonished_by/",
+      "createdAt": "2026-10-20T12:32:47.299Z",
+      "score": 357,
+      "commentCount": 29,
+      "scorePerHour": 22.79,
+      "commentsPerHour": 1.85,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW"
+      ],
+      "flair": "Software",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1x8h66m",
+      "title": "Hot Take: I liked Hellraiser: Revival more than Silent Hill: Townfall and Resident Evil 9. My Horror Game of the Year without a doubt",
+      "subreddit": "gaming",
+      "author": "33Sharpies",
+      "url": "https://www.reddit.com/comments/1x8h66m/",
+      "createdAt": "2026-10-17T18:16:22.483Z",
+      "score": 3683,
+      "commentCount": 707,
+      "scorePerHour": 44.95,
+      "commentsPerHour": 8.63,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW"
+      ],
+      "flair": null,
+      "postType": "image",
+      "crosspostSubreddits": []
+    }
+  ],
+  "metadataCoverage": 1,
+  "mode": "HYBRID",
+  "analysisMode": "RULES_CLUSTERING",
+  "scrapedAt": "2026-10-21T04:12:51.771Z"
+},
+{
+  "rowType": "trending_topic",
+  "rank": 15,
+  "topicId": "77f749eb4f73",
+  "topic": "Victor Wembanyama",
+  "trendScore": 53,
+  "trendTier": "RISING",
+  "confidence": "MEDIUM",
+  "trendSignals": [
+    "HIGH_COMMENT_VELOCITY",
+    "MULTIPLE_BREAKOUT_POSTS",
+    "MULTIPLE_AUTHORS",
+    "RISING_FEED_PRESENCE",
+    "RECENT_POST_CLUSTER",
+    "REPEATED_TITLE_THEME"
+  ],
+  "weakeningSignals": [
+    "SINGLE_POST_DOMINANCE",
+    "SINGLE_AUTHOR_DOMINANCE",
+    "SINGLE_SUBREDDIT_DOMINANCE"
+  ],
+  "trendSummary": "Discussion of Victor Wembanyama is rising in r/nba: 13 posts by 4 authors, with 2 breakout posts and unusually high comment velocity.",
+  "metrics": {
+    "postCount": 13,
+    "rawPostCount": 14,
+    "uniqueAuthors": 4,
+    "uniqueSubreddits": 1,
+    "totalScore": 3245,
+    "totalComments": 541,
+    "avgScore": 249.6,
+    "medianScore": 36,
+    "avgComments": 41.6,
+    "medianComments": 11,
+    "avgScorePerHour": 197.1,
+    "medianScorePerHour": 16.9,
+    "avgCommentsPerHour": 32,
+    "medianCommentsPerHour": 10,
+    "breakoutPostCount": 2,
+    "hotPostCount": 6,
+    "risingPostCount": 2,
+    "newPostCount": 13,
+    "topPostCount": 0,
+    "crosspostCount": 1,
+    "medianAgeHours": 0.9
+  },
+  "scoreBreakdown": {
+    "engagementVelocity": 17.8,
+    "discussionVelocity": 15.2,
+    "breakoutPosts": 10,
+    "recency": 14.9,
+    "postFrequency": 9.3,
+    "authorDiversity": 1.5,
+    "subredditSpread": 0,
+    "nativeFeedSignals": 4.3,
+    "penalties": {
+      "singlePostDominance": -10,
+      "singleAuthorDominance": -10
+    },
+    "total": 53
+  },
+  "topSubreddits": [
+    {
+      "subreddit": "nba",
+      "posts": 14
+    }
+  ],
+  "topSubreddit": "nba",
+  "topSubredditShare": 1,
+  "topAuthorShare": 0.69,
+  "crosspostSubreddits": [
+    "nba"
+  ],
+  "relatedPhrases": [],
+  "nativeFeedSignals": [
+    "RISING",
+    "HOT",
+    "NEW"
+  ],
+  "observedWindow": {
+    "requested": "7_DAYS",
+    "oldestEvidenceAt": "2026-10-21T02:04:39.527Z",
+    "newestEvidenceAt": "2026-10-21T03:54:00.864Z"
+  },
+  "evidencePosts": [
+    {
+      "postId": "1xbbwbi",
+      "title": "MVP Favorite Victor Wembanyama finishes the first half with 8 points on 0-7 shooting. 8-9 from the free throw line",
+      "subreddit": "nba",
+      "author": "LiamHundley",
+      "url": "https://www.reddit.com/r/nba/comments/1xbbwbi/mvp_favorite_victor_wembanyama_finishes_the_first/",
+      "createdAt": "2026-10-21T02:58:52.364Z",
+      "score": 2442,
+      "commentCount": 248,
+      "scorePerHour": 1982.41,
+      "commentsPerHour": 201.33,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": null,
+      "postType": "multi_media",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xbbdr4",
+      "title": "[Highlight] Kenrich Williams, Jaylin Williams and Jalen Williams pick up technical fouls for OKC; Victor Wembanyama picks up a technical foul and De’Aaron Fox picks up a flagrant foul penalty one from this play:",
+      "subreddit": "nba",
+      "author": "DynastyInProcess",
+      "url": "https://www.reddit.com/r/nba/comments/1xbbdr4/highlight_kenrich_williams_jaylin_williams_and/",
+      "createdAt": "2026-10-21T02:33:11.684Z",
+      "score": 390,
+      "commentCount": 160,
+      "scorePerHour": 234.97,
+      "commentsPerHour": 96.4,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": "Highlight",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xbcuh0",
+      "title": "[Lowlights] Victor Wembanyama misses back to back 3s over Aday Mara, and he is now 0/12 from the field and 0/4 from 3, 10/11 from the line",
+      "subreddit": "nba",
+      "author": "MrBuckBuck",
+      "url": "https://www.reddit.com/r/nba/comments/1xbcuh0/lowlights_victor_wembanyama_misses_back_to_back/",
+      "createdAt": "2026-10-21T03:47:47.137Z",
+      "score": 87,
+      "commentCount": 28,
+      "scorePerHour": 87,
+      "commentsPerHour": 28,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW"
+      ],
+      "flair": null,
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xbcwjw",
+      "title": "[Highlight] Victor Wembanyama records his first FG after 13 attempts",
+      "subreddit": "nba",
+      "author": "Large_banana_hammock",
+      "url": "https://www.reddit.com/r/nba/comments/1xbcwjw/highlight_victor_wembanyama_records_his_first_fg/",
+      "createdAt": "2026-10-21T03:50:59.485Z",
+      "score": 63,
+      "commentCount": 27,
+      "scorePerHour": 63,
+      "commentsPerHour": 27,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW"
+      ],
+      "flair": "Highlight",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xbbyuh",
+      "title": "[Highlights] Victor Wembanyama blocks Chet Holmgren from behind, Chet Holmgren blocks Dylan Harper, Wembanyama blocks Chet again, and Chet blocks Wemby this time (with replays)",
+      "subreddit": "nba",
+      "author": "MrBuckBuck",
+      "url": "https://www.reddit.com/r/nba/comments/1xbbyuh/highlights_victor_wembanyama_blocks_chet_holmgren/",
+      "createdAt": "2026-10-21T03:02:09.532Z",
+      "score": 70,
+      "commentCount": 20,
+      "scorePerHour": 59.47,
+      "commentsPerHour": 16.99,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW"
+      ],
+      "flair": "Highlight",
+      "postType": "link",
+      "crosspostSubreddits": [
+        "nba"
+      ]
+    }
+  ],
+  "metadataCoverage": 1,
+  "mode": "HYBRID",
+  "analysisMode": "RULES_CLUSTERING",
+  "scrapedAt": "2026-10-21T04:12:51.771Z"
+},
+{
+  "rowType": "trending_topic",
+  "rank": 16,
+  "topicId": "bb3e9dfd2680",
+  "topic": "Jared McCain",
+  "trendScore": 53,
+  "trendTier": "RISING",
+  "confidence": "MEDIUM",
+  "trendSignals": [
+    "RECENT_POST_CLUSTER",
+    "REPEATED_TITLE_THEME"
+  ],
+  "weakeningSignals": [
+    "SINGLE_SUBREDDIT_DOMINANCE"
+  ],
+  "trendSummary": "Discussion of Jared McCain is rising in r/nba: 4 posts by 2 authors.",
+  "metrics": {
+    "postCount": 4,
+    "rawPostCount": 4,
+    "uniqueAuthors": 2,
+    "uniqueSubreddits": 1,
+    "totalScore": 139,
+    "totalComments": 37,
+    "avgScore": 34.8,
+    "medianScore": 34,
+    "avgComments": 9.3,
+    "medianComments": 7.5,
+    "avgScorePerHour": 24.2,
+    "medianScorePerHour": 23.3,
+    "avgCommentsPerHour": 6.2,
+    "medianCommentsPerHour": 6.1,
+    "breakoutPostCount": 0,
+    "hotPostCount": 0,
+    "risingPostCount": 0,
+    "newPostCount": 4,
+    "topPostCount": 0,
+    "crosspostCount": 0,
+    "medianAgeHours": 1.6
+  },
+  "scoreBreakdown": {
+    "engagementVelocity": 16.8,
+    "discussionVelocity": 13.7,
+    "breakoutPosts": 0,
+    "recency": 14.9,
+    "postFrequency": 5,
+    "authorDiversity": 2.5,
+    "subredditSpread": 0,
+    "nativeFeedSignals": 0,
+    "penalties": {},
+    "total": 53
+  },
+  "topSubreddits": [
+    {
+      "subreddit": "nba",
+      "posts": 4
+    }
+  ],
+  "topSubreddit": "nba",
+  "topSubredditShare": 1,
+  "topAuthorShare": 0.5,
+  "crosspostSubreddits": [],
+  "relatedPhrases": [],
+  "nativeFeedSignals": [
+    "NEW"
+  ],
+  "observedWindow": {
+    "requested": "7_DAYS",
+    "oldestEvidenceAt": "2026-10-21T02:16:42.524Z",
+    "newestEvidenceAt": "2026-10-21T04:03:39.301Z"
+  },
+  "evidencePosts": [
+    {
+      "postId": "1xbd5dl",
+      "title": "[Highlight] The Spurs go to a zone look but lose track of the best shooter on the floor in Jared McCain",
+      "subreddit": "nba",
+      "author": "LiamHundley",
+      "url": "https://www.reddit.com/r/nba/comments/1xbd5dl/highlight_the_spurs_go_to_a_zone_look_but_lose/",
+      "createdAt": "2026-10-21T04:03:39.301Z",
+      "score": 34,
+      "commentCount": 10,
+      "scorePerHour": 34,
+      "commentsPerHour": 10,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_NEW"
+      ],
+      "flair": "Highlight",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xbbpls",
+      "title": "Cason Wallace With The Assist To Jared McCain Who Hits The Three To Put OKC Up 23",
+      "subreddit": "nba",
+      "author": "New-Process-6463",
+      "url": "https://www.reddit.com/r/nba/comments/1xbbpls/cason_wallace_with_the_assist_to_jared_mccain_who/",
+      "createdAt": "2026-10-21T02:49:32.786Z",
+      "score": 40,
+      "commentCount": 4,
+      "scorePerHour": 28.83,
+      "commentsPerHour": 2.88,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_NEW"
+      ],
+      "flair": null,
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xbb1v3",
+      "title": "[Highlight] Jared McCain curls around the Mara handoff and drills the 3",
+      "subreddit": "nba",
+      "author": "LiamHundley",
+      "url": "https://www.reddit.com/r/nba/comments/1xbb1v3/highlight_jared_mccain_curls_around_the_mara/",
+      "createdAt": "2026-10-21T02:16:42.524Z",
+      "score": 31,
+      "commentCount": 18,
+      "scorePerHour": 16.02,
+      "commentsPerHour": 9.3,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_NEW"
+      ],
+      "flair": "Highlight",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xbb34k",
+      "title": "Jared McCain and Alex Caruso Hit Threes For OKC on Back To Back Possessions",
+      "subreddit": "nba",
+      "author": "New-Process-6463",
+      "url": "https://www.reddit.com/r/nba/comments/1xbb34k/jared_mccain_and_alex_caruso_hit_threes_for_okc/",
+      "createdAt": "2026-10-21T02:18:21.364Z",
+      "score": 34,
+      "commentCount": 5,
+      "scorePerHour": 17.83,
+      "commentsPerHour": 2.62,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_NEW"
+      ],
+      "flair": null,
+      "postType": "link",
+      "crosspostSubreddits": []
+    }
+  ],
+  "metadataCoverage": 1,
+  "mode": "HYBRID",
+  "analysisMode": "RULES_CLUSTERING",
+  "scrapedAt": "2026-10-21T04:12:51.771Z"
+},
+{
+  "rowType": "trending_topic",
+  "rank": 17,
+  "topicId": "0b7975b1cc60",
+  "topic": "Tyrese Maxey",
+  "trendScore": 51,
+  "trendTier": "RISING",
+  "confidence": "MEDIUM",
+  "trendSignals": [
+    "HIGH_SCORE_VELOCITY",
+    "HIGH_COMMENT_VELOCITY",
+    "MULTIPLE_AUTHORS",
+    "RISING_FEED_PRESENCE",
+    "HOT_FEED_PRESENCE",
+    "RECENT_POST_CLUSTER",
+    "REPEATED_TITLE_THEME"
+  ],
+  "weakeningSignals": [
+    "SINGLE_POST_DOMINANCE",
+    "SINGLE_SUBREDDIT_DOMINANCE"
+  ],
+  "trendSummary": "Discussion of Tyrese Maxey is rising in r/nba: 5 posts by 4 authors, with 1 breakout post and unusually high score and comment velocity.",
+  "metrics": {
+    "postCount": 5,
+    "rawPostCount": 5,
+    "uniqueAuthors": 4,
+    "uniqueSubreddits": 1,
+    "totalScore": 3977,
+    "totalComments": 1049,
+    "avgScore": 795.4,
+    "medianScore": 169,
+    "avgComments": 209.8,
+    "medianComments": 41,
+    "avgScorePerHour": 364.1,
+    "medianScorePerHour": 72,
+    "avgCommentsPerHour": 94.8,
+    "medianCommentsPerHour": 12.7,
+    "breakoutPostCount": 1,
+    "hotPostCount": 5,
+    "risingPostCount": 1,
+    "newPostCount": 3,
+    "topPostCount": 0,
+    "crosspostCount": 0,
+    "medianAgeHours": 2.4
+  },
+  "scoreBreakdown": {
+    "engagementVelocity": 19.6,
+    "discussionVelocity": 16.6,
+    "breakoutPosts": 5,
+    "recency": 14.8,
+    "postFrequency": 5.8,
+    "authorDiversity": 4,
+    "subredditSpread": 0,
+    "nativeFeedSignals": 5,
+    "penalties": {
+      "singlePostDominance": -20
+    },
+    "total": 51
+  },
+  "topSubreddits": [
+    {
+      "subreddit": "nba",
+      "posts": 5
+    }
+  ],
+  "topSubreddit": "nba",
+  "topSubredditShare": 1,
+  "topAuthorShare": 0.4,
+  "crosspostSubreddits": [],
+  "relatedPhrases": [],
+  "nativeFeedSignals": [
+    "RISING",
+    "HOT",
+    "NEW"
+  ],
+  "observedWindow": {
+    "requested": "7_DAYS",
+    "oldestEvidenceAt": "2026-10-20T23:29:19.462Z",
+    "newestEvidenceAt": "2026-10-21T02:12:18.788Z"
+  },
+  "evidencePosts": [
+    {
+      "postId": "1xbasxs",
+      "title": "[Post Game Thread] The Philadelphia 76ers (1-0) defeat the New York Knicks (0-1), 106-100, behind Tyrese Maxey's 28 point peformance",
+      "subreddit": "nba",
+      "author": "catreyka",
+      "url": "https://www.reddit.com/r/nba/comments/1xbasxs/post_game_thread_the_philadelphia_76ers_10_defeat/",
+      "createdAt": "2026-10-21T02:04:34.108Z",
+      "score": 3449,
+      "commentCount": 907,
+      "scorePerHour": 1614.02,
+      "commentsPerHour": 424.45,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "POPULAR_HOT",
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": "Post Game Thread",
+      "postType": "text",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xbayor",
+      "title": "Tyrese Maxey in the win @NYK: 28/4/5/3/3 on 61% TS",
+      "subreddit": "nba",
+      "author": "Lacabloodclot9",
+      "url": "https://www.reddit.com/r/nba/comments/1xbayor/tyrese_maxey_in_the_win_nyk_284533_on_61_ts/",
+      "createdAt": "2026-10-21T02:12:18.788Z",
+      "score": 169,
+      "commentCount": 41,
+      "scorePerHour": 84.17,
+      "commentsPerHour": 20.42,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW"
+      ],
+      "flair": null,
+      "postType": "multi_media",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xbahmb",
+      "title": "[Highlight] Sixers lead by six after steal and score by Tyrese Maxey",
+      "subreddit": "nba",
+      "author": "Large_banana_hammock",
+      "url": "https://www.reddit.com/r/nba/comments/1xbahmb/highlight_sixers_lead_by_six_after_steal_and/",
+      "createdAt": "2026-10-21T01:49:20.552Z",
+      "score": 172,
+      "commentCount": 29,
+      "scorePerHour": 71.95,
+      "commentsPerHour": 12.13,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW"
+      ],
+      "flair": "Highlight",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xb7ivm",
+      "title": "[Highlight] Karl-Anthony Towns attempts a 3-pointer, misses, and while doing so extends his right leg and trips Tyrese Maxey, and getting called for the offensive foul (with a replay)",
+      "subreddit": "nba",
+      "author": "MrBuckBuck",
+      "url": "https://www.reddit.com/r/nba/comments/1xb7ivm/highlight_karlanthony_towns_attempts_a_3pointer/",
+      "createdAt": "2026-10-20T23:29:19.462Z",
+      "score": 120,
+      "commentCount": 60,
+      "scorePerHour": 25.4,
+      "commentsPerHour": 12.7,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT"
+      ],
+      "flair": "Highlight",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xba4dm",
+      "title": "[Highlight] Joel Embiid blocks Andre Drummond's dunk attempt and also the finger wag (with a replay). Tyrese Maxey with the quick And-1 at the other end.",
+      "subreddit": "nba",
+      "author": "MrBuckBuck",
+      "url": "https://www.reddit.com/r/nba/comments/1xba4dm/highlight_joel_embiid_blocks_andre_drummonds_dunk/",
+      "createdAt": "2026-10-21T01:31:04.092Z",
+      "score": 67,
+      "commentCount": 12,
+      "scorePerHour": 24.86,
+      "commentsPerHour": 4.45,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT"
+      ],
+      "flair": "Highlight",
+      "postType": "link",
+      "crosspostSubreddits": []
+    }
+  ],
+  "metadataCoverage": 1,
+  "mode": "HYBRID",
+  "analysisMode": "RULES_CLUSTERING",
+  "scrapedAt": "2026-10-21T04:12:51.771Z"
+},
+{
+  "rowType": "trending_topic",
+  "rank": 18,
+  "topicId": "76620a12a0a9",
+  "topic": "Mitchell Robinson",
+  "trendScore": 50,
+  "trendTier": "RISING",
+  "confidence": "MEDIUM",
+  "trendSignals": [
+    "HIGH_SCORE_VELOCITY",
+    "RISING_FEED_PRESENCE",
+    "HOT_FEED_PRESENCE",
+    "RECENT_POST_CLUSTER",
+    "REPEATED_TITLE_THEME"
+  ],
+  "weakeningSignals": [
+    "SINGLE_AUTHOR_DOMINANCE",
+    "SINGLE_SUBREDDIT_DOMINANCE",
+    "LOW_EVIDENCE_COUNT"
+  ],
+  "trendSummary": "Discussion of Mitchell Robinson is rising in r/nba: 3 posts by 2 authors, with unusually high score velocity.",
+  "metrics": {
+    "postCount": 3,
+    "rawPostCount": 3,
+    "uniqueAuthors": 2,
+    "uniqueSubreddits": 1,
+    "totalScore": 1625,
+    "totalComments": 146,
+    "avgScore": 541.7,
+    "medianScore": 618,
+    "avgComments": 48.7,
+    "medianComments": 49,
+    "avgScorePerHour": 62.5,
+    "medianScorePerHour": 68.5,
+    "avgCommentsPerHour": 5.6,
+    "medianCommentsPerHour": 5.4,
+    "breakoutPostCount": 0,
+    "hotPostCount": 3,
+    "risingPostCount": 3,
+    "newPostCount": 0,
+    "topPostCount": 0,
+    "crosspostCount": 0,
+    "medianAgeHours": 8.5
+  },
+  "scoreBreakdown": {
+    "engagementVelocity": 18.9,
+    "discussionVelocity": 14,
+    "breakoutPosts": 0,
+    "recency": 14.2,
+    "postFrequency": 4,
+    "authorDiversity": 3.3,
+    "subredditSpread": 0,
+    "nativeFeedSignals": 5,
+    "penalties": {
+      "singleAuthorDominance": -10
+    },
+    "total": 50
+  },
+  "topSubreddits": [
+    {
+      "subreddit": "nba",
+      "posts": 3
+    }
+  ],
+  "topSubreddit": "nba",
+  "topSubredditShare": 1,
+  "topAuthorShare": 0.67,
+  "crosspostSubreddits": [],
+  "relatedPhrases": [],
+  "nativeFeedSignals": [
+    "RISING",
+    "HOT"
+  ],
+  "observedWindow": {
+    "requested": "7_DAYS",
+    "oldestEvidenceAt": "2026-10-20T19:11:19.852Z",
+    "newestEvidenceAt": "2026-10-20T19:46:01.361Z"
+  },
+  "evidencePosts": [
+    {
+      "postId": "1xb2569",
+      "title": "[Highlight] Ausar Thompson with the beautiful 180 spin layup in mid-air, and Mitchell Robinson is hobbling after rolling his ankle (with a replay)",
+      "subreddit": "nba",
+      "author": "MrBuckBuck",
+      "url": "https://www.reddit.com/r/nba/comments/1xb2569/highlight_ausar_thompson_with_the_beautiful_180/",
+      "createdAt": "2026-10-20T19:46:01.361Z",
+      "score": 790,
+      "commentCount": 41,
+      "scorePerHour": 93.54,
+      "commentsPerHour": 4.85,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": "Highlight",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xb21zt",
+      "title": "[Injury] Mitchell Robinson appears to suffer a lower leg injury.",
+      "subreddit": "nba",
+      "author": "DynastyInProcess",
+      "url": "https://www.reddit.com/r/nba/comments/1xb21zt/injury_mitchell_robinson_appears_to_suffer_a/",
+      "createdAt": "2026-10-20T19:42:42.313Z",
+      "score": 217,
+      "commentCount": 56,
+      "scorePerHour": 25.53,
+      "commentsPerHour": 6.59,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": null,
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xb17kd",
+      "title": "[Highlight] And the Boston Celtics' first play of the season ends with a moving screen by Mitchell Robinson",
+      "subreddit": "nba",
+      "author": "MrBuckBuck",
+      "url": "https://www.reddit.com/r/nba/comments/1xb17kd/highlight_and_the_boston_celtics_first_play_of/",
+      "createdAt": "2026-10-20T19:11:19.852Z",
+      "score": 618,
+      "commentCount": 49,
+      "scorePerHour": 68.48,
+      "commentsPerHour": 5.43,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": "Highlight",
+      "postType": "link",
+      "crosspostSubreddits": []
+    }
+  ],
+  "metadataCoverage": 1,
+  "mode": "HYBRID",
+  "analysisMode": "RULES_CLUSTERING",
+  "scrapedAt": "2026-10-21T04:12:51.771Z"
+},
+{
+  "rowType": "trending_topic",
+  "rank": 19,
+  "topicId": "a6dfde0ec5c5",
+  "topic": "AfD",
+  "trendScore": 49,
+  "trendTier": "ACTIVE",
+  "confidence": "MEDIUM",
+  "trendSignals": [
+    "MULTIPLE_AUTHORS",
+    "MULTIPLE_SUBREDDITS",
+    "RISING_FEED_PRESENCE",
+    "HOT_FEED_PRESENCE",
+    "RECENT_POST_CLUSTER",
+    "REPEATED_TITLE_THEME",
+    "CROSS_COMMUNITY_SPREAD"
+  ],
+  "weakeningSignals": [
+    "SINGLE_POST_DOMINANCE"
+  ],
+  "trendSummary": "Discussion of AfD is active across 3 subreddits: 4 posts by 4 authors, with 1 breakout post.",
+  "metrics": {
+    "postCount": 4,
+    "rawPostCount": 4,
+    "uniqueAuthors": 4,
+    "uniqueSubreddits": 3,
+    "totalScore": 17531,
+    "totalComments": 1439,
+    "avgScore": 4382.8,
+    "medianScore": 868.5,
+    "avgComments": 359.8,
+    "medianComments": 188,
+    "avgScorePerHour": 284,
+    "medianScorePerHour": 61,
+    "avgCommentsPerHour": 22.9,
+    "medianCommentsPerHour": 11.7,
+    "breakoutPostCount": 1,
+    "hotPostCount": 3,
+    "risingPostCount": 2,
+    "newPostCount": 3,
+    "topPostCount": 0,
+    "crosspostCount": 0,
+    "medianAgeHours": 16.2
+  },
+  "scoreBreakdown": {
+    "engagementVelocity": 18.6,
+    "discussionVelocity": 13.3,
+    "breakoutPosts": 5,
+    "recency": 13.6,
+    "postFrequency": 5,
+    "authorDiversity": 5,
+    "subredditSpread": 3.3,
+    "nativeFeedSignals": 5,
+    "penalties": {
+      "singlePostDominance": -20
+    },
+    "total": 49
+  },
+  "topSubreddits": [
+    {
+      "subreddit": "worldnews",
+      "posts": 2
+    },
+    {
+      "subreddit": "climate",
+      "posts": 1
+    },
+    {
+      "subreddit": "technology",
+      "posts": 1
+    }
+  ],
+  "topSubreddit": "worldnews",
+  "topSubredditShare": 0.5,
+  "topAuthorShare": 0.25,
+  "crosspostSubreddits": [],
+  "relatedPhrases": [],
+  "nativeFeedSignals": [
+    "RISING",
+    "HOT",
+    "NEW"
+  ],
+  "observedWindow": {
+    "requested": "7_DAYS",
+    "oldestEvidenceAt": "2026-10-17T10:16:54.994Z",
+    "newestEvidenceAt": "2026-10-20T17:34:59.221Z"
+  },
+  "evidencePosts": [
+    {
+      "postId": "1xar7jl",
+      "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
+      "subreddit": "technology",
+      "author": "Puzzleheaded_irl",
+      "url": "https://www.reddit.com/r/technology/comments/1xar7jl/afd_leak_what_421179_hacked_emails_show_about_the/",
+      "createdAt": "2026-10-20T12:47:03.692Z",
+      "score": 15610,
+      "commentCount": 1047,
+      "scorePerHour": 1011.75,
+      "commentsPerHour": 67.86,
+      "isBreakoutPost": true,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": "Politics",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xaylel",
+      "title": "Germany's far-right AfD investigates publication of emails stolen in cyberattack",
+      "subreddit": "worldnews",
+      "author": "QuicklyThisWay",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xaylel/germanys_farright_afd_investigates_publication_of/",
+      "createdAt": "2026-10-20T17:34:59.221Z",
+      "score": 558,
+      "commentCount": 37,
+      "scorePerHour": 52.49,
+      "commentsPerHour": 3.48,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": null,
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xapdnw",
+      "title": "AfD’s Alice Weidel to unveil plan to downsize the EU",
+      "subreddit": "worldnews",
+      "author": "avatar6556",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xapdnw/afds_alice_weidel_to_unveil_plan_to_downsize_the/",
+      "createdAt": "2026-10-20T11:15:44.783Z",
+      "score": 1179,
+      "commentCount": 339,
+      "scorePerHour": 69.56,
+      "commentsPerHour": 20,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW"
+      ],
+      "flair": null,
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1x86pwk",
+      "title": "EV and rooftop solar uptake slower in regions with high support for far-right AfD. “There could be substantially more solar power installations and electric vehicles (EVs) without the rise of the AfD.”",
+      "subreddit": "climate",
+      "author": "The_Weekend_Baker",
+      "url": "https://www.reddit.com/r/climate/comments/1x86pwk/ev_and_rooftop_solar_uptake_slower_in_regions/",
+      "createdAt": "2026-10-17T10:16:54.994Z",
+      "score": 184,
+      "commentCount": 16,
+      "scorePerHour": 2.05,
+      "commentsPerHour": 0.18,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SEED_SEARCH"
+      ],
+      "flair": null,
+      "postType": null,
+      "crosspostSubreddits": []
+    }
+  ],
+  "metadataCoverage": 1,
+  "mode": "HYBRID",
+  "analysisMode": "RULES_CLUSTERING",
+  "scrapedAt": "2026-10-21T04:12:51.771Z"
+},
+{
+  "rowType": "trending_topic",
+  "rank": 20,
+  "topicId": "73ae71ea055c",
+  "topic": "Iran",
+  "trendScore": 48,
+  "trendTier": "ACTIVE",
+  "confidence": "HIGH",
+  "trendSignals": [
+    "MULTIPLE_AUTHORS",
+    "RISING_FEED_PRESENCE",
+    "HOT_FEED_PRESENCE",
+    "RECENT_POST_CLUSTER",
+    "REPEATED_TITLE_THEME"
+  ],
+  "weakeningSignals": [
+    "SINGLE_SUBREDDIT_DOMINANCE"
+  ],
+  "trendSummary": "Discussion of Iran is active in r/worldnews: 6 posts by 6 authors.",
+  "metrics": {
+    "postCount": 6,
+    "rawPostCount": 6,
+    "uniqueAuthors": 6,
+    "uniqueSubreddits": 1,
+    "totalScore": 5644,
+    "totalComments": 426,
+    "avgScore": 940.7,
+    "medianScore": 177.5,
+    "avgComments": 71,
+    "medianComments": 23,
+    "avgScorePerHour": 63.4,
+    "medianScorePerHour": 18.1,
+    "avgCommentsPerHour": 6.5,
+    "medianCommentsPerHour": 3.2,
+    "breakoutPostCount": 0,
+    "hotPostCount": 5,
+    "risingPostCount": 1,
+    "newPostCount": 6,
+    "topPostCount": 0,
+    "crosspostCount": 0,
+    "medianAgeHours": 17.1
+  },
+  "scoreBreakdown": {
+    "engagementVelocity": 16.4,
+    "discussionVelocity": 11.5,
+    "breakoutPosts": 0,
+    "recency": 13.5,
+    "postFrequency": 6.5,
+    "authorDiversity": 5,
+    "subredditSpread": 0,
+    "nativeFeedSignals": 5,
+    "penalties": {
+      "singlePostDominance": -10
+    },
+    "total": 48
+  },
+  "topSubreddits": [
+    {
+      "subreddit": "worldnews",
+      "posts": 6
+    }
+  ],
+  "topSubreddit": "worldnews",
+  "topSubredditShare": 1,
+  "topAuthorShare": 0.17,
+  "crosspostSubreddits": [],
+  "relatedPhrases": [
+    "Tehran"
+  ],
+  "nativeFeedSignals": [
+    "RISING",
+    "HOT",
+    "NEW"
+  ],
+  "observedWindow": {
+    "requested": "7_DAYS",
+    "oldestEvidenceAt": "2026-10-20T01:15:12.101Z",
+    "newestEvidenceAt": "2026-10-21T02:41:41.069Z"
+  },
+  "evidencePosts": [
+    {
+      "postId": "1xax8bn",
+      "title": "Hegseth meets with Netanyahu in Israel ahead of elections and possible restart to Iran war",
+      "subreddit": "worldnews",
+      "author": "RollSafer",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xax8bn/hegseth_meets_with_netanyahu_in_israel_ahead_of/",
+      "createdAt": "2026-10-20T16:44:13.621Z",
+      "score": 2796,
+      "commentCount": 231,
+      "scorePerHour": 243.64,
+      "commentsPerHour": 20.13,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW",
+        "SUBREDDIT_RISING"
+      ],
+      "flair": "Israel/Palestine",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xbbjw7",
+      "title": "Iran has rejected the proposal to send its enriched uranium to a third country, with Iranian security chief Mohsen Rezaei telling Pakistani defence chief Asim Munir that Tehran would not allow any nuclear material to leave the country",
+      "subreddit": "worldnews",
+      "author": "Raj_Valiant3011",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xbbjw7/iran_has_rejected_the_proposal_to_send_its/",
+      "createdAt": "2026-10-21T02:41:41.069Z",
+      "score": 39,
+      "commentCount": 17,
+      "scorePerHour": 25.69,
+      "commentsPerHour": 11.2,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW"
+      ],
+      "flair": null,
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xaetg0",
+      "title": "Lavrov backs Iran after Trump says Russia doing 'little' for Tehran",
+      "subreddit": "worldnews",
+      "author": "graveyardofgoodsense",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xaetg0/lavrov_backs_iran_after_trump_says_russia_doing/",
+      "createdAt": "2026-10-20T01:15:12.101Z",
+      "score": 2434,
+      "commentCount": 135,
+      "scorePerHour": 90.28,
+      "commentsPerHour": 5.01,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW"
+      ],
+      "flair": "Russia/Ukraine",
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xb00ra",
+      "title": "2 men rearrested in UK on suspicion of assisting Iran over suspected plot at a US-run air base",
+      "subreddit": "worldnews",
+      "author": "AffectionateRate7290",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xb00ra/2_men_rearrested_in_uk_on_suspicion_of_assisting/",
+      "createdAt": "2026-10-20T18:26:49.726Z",
+      "score": 94,
+      "commentCount": 13,
+      "scorePerHour": 9.63,
+      "commentsPerHour": 1.33,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW"
+      ],
+      "flair": null,
+      "postType": "link",
+      "crosspostSubreddits": []
+    },
+    {
+      "postId": "1xah7v1",
+      "title": "Lavrov meets Iran’s Pezeshkian in Tehran to discuss strategic partnership",
+      "subreddit": "worldnews",
+      "author": "DoremusJessup",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xah7v1/lavrov_meets_irans_pezeshkian_in_tehran_to/",
+      "createdAt": "2026-10-20T03:12:00.274Z",
+      "score": 261,
+      "commentCount": 29,
+      "scorePerHour": 10.43,
+      "commentsPerHour": 1.16,
+      "isBreakoutPost": false,
+      "discoveredVia": [
+        "SUBREDDIT_HOT",
+        "SUBREDDIT_NEW"
+      ],
+      "flair": null,
+      "postType": "link",
+      "crosspostSubreddits": []
+    }
+  ],
+  "metadataCoverage": 1,
+  "mode": "HYBRID",
+  "analysisMode": "RULES_CLUSTERING",
+  "scrapedAt": "2026-10-21T04:12:51.771Z"
+}]
